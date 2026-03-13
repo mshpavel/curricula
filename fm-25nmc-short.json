@@ -1,0 +1,1195 @@
+[
+  {
+  "name": "fm-25nmc-short",
+  "data": [
+    {
+      "id": 1,
+      "title": "Introduction of Forensic Medicine",
+      "topics": [
+        {
+          "id": "1-1",
+          "name": "Define Forensic Medicine. (B.A-15)",
+          "answer": "Forensic medicine is the science that relates to the application of medical knowledge for the dispensation of justice in a court of law. It deals with applying the knowledge of every branch of medicine whenever necessary for reaching a decision in legal affairs, concerning both civil and criminal cases, to aid in the administration of justice."
+        },
+        {
+          "id": "1-2",
+          "name": "What are the aims and objectives of Forensic Medicine? (B.A-27)",
+          "answer": "The aims of forensic medicine include the application of medical and paramedical knowledge to aid in the administration of justice. Furthermore, it is used by legal authorities for the solution of legal problems, such as applying medical knowledge in deciding cases related to injuries, murder, suicide, accidents, sexual offenses, and poisoning."
+        },
+        {
+          "id": "1-3",
+          "name": "What are the goals of Forensic Medicine? (B.A-50)",
+          "answer": "The goals of forensic medicine are centered on supporting the legal process and criminal investigation:\n\n• Application of medical knowledge in legal matters concerning both civil and criminal cases.\n• Aiding in the investigation of cases that are sudden, unexpected, suspicious, or unnatural.\n• Examining various victims (living or dead) to provide a medicolegal opinion regarding the cause and nature of injuries and death.\n• Identifying individuals through various medical examinations, thereby assisting in crime investigation."
+        },
+        {
+          "id": "1-4",
+          "name": "Define Clinical Forensic Medicine and give example. (B.A-6, 23)",
+          "answer": "Clinical forensic medicine involves applying clinical medical knowledge for law enforcement and the judiciary when a medical professional encounters them.\n\nExamples of the scope of clinical forensic medicine include the examination of adult sexual assault victims and the documentation and interpretation of medical evidence from victims of crime. It also includes examining patients for injuries."
+        },
+        {
+          "id": "1-5",
+          "name": "Define Forensic Medicine & Medical Jurisprudence. (B.A-11)",
+          "answer": "• Forensic Medicine: This is the science concerned with the application of medical knowledge to aid the administration of justice.\n\n• Medical Jurisprudence: This is the subject concerned with the knowledge of law in relation to the practice of medicine. It deals specifically with the legal aspects of practicing medicine, especially the responsibilities arising from the physician-patient relationship, such as consent, medical ethics, and serious professional misconduct."
+        },
+        {
+          "id": "1-6",
+          "name": "Tell the difference between Forensic Medicine and Medical Jurisprudence. (B.A-13)",
+          "answer": "| Traits | Forensic Medicine / Legal Medicine | Medical Jurisprudence |\n|---|---|---|\n| Deals with | Application of medical knowledge to aid the administration of justice. | Application of knowledge of law in the practice of medicine. |\n| Use | Used by the court for the solution of legal problems. | Used by members of the medical profession for their guidance. |\n| Application | Can be applied to all people. | Can only be applied to members of medical professions. |\n| Relation to medical practitioner | Brings medical men into contact with courts of law. | Deals with the relationship between doctor and patient, and doctor and society. |\n| Sub-divisions | It has some subdivisions. | It has no subdivisions. |"
+        },
+        {
+          "id": "1-7",
+          "name": "Why doctors of all categories need fair knowledge in Forensic Medicine? (B.A-8)",
+          "answer": "Doctors need a fair knowledge of forensic medicine for several reasons:\n• To accurately express their opinions in a court of law.\n• For professional self-safeguard, enabling the doctor to know what actions are lawful and what are unlawful.\n• To understand and follow their own code of conduct regarding what is mandatory and what is prohibited."
+        },
+        {
+          "id": "1-8",
+          "name": "What do you mean by Forensic Pathology? (B.A-9, 21)",
+          "answer": "Forensic pathology is a branch of Forensic medicine that deals with medical and pathological principles for determining the manner and causes of death. It assists in determining the cause and manner of death in circumstances that are sudden, unnatural, suspicious, unexplained, unexpected, and medically unattended."
+        },
+        {
+          "id": "1-9",
+          "name": "Define Forensic Thanatology. (B.A-24)",
+          "answer": "Forensic thanatology is the science concerned with the scientific study of death, including the types of death, the various events or changes that occur in the cadaver, and their medicolegal significance."
+        },
+        {
+          "id": "1-10",
+          "name": "Define Forensic Ballistics. (B.A-20)",
+          "answer": "Forensic ballistics is the science dealing with the investigations of firearms, ammunition, and the problems arising from their use."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "BMDC & Medical Ethics (Legal Procedure)",
+      "topics": [
+        {
+          "id": "2-1",
+          "name": "Define Consent? Tell the types of it. (B.A-1)",
+          "answer": "Consent is a free & voluntary agreement, approval or permission for compliance of some act. The fundamental importance of consent lies in the fact that to examine, treat, or operate upon a patient without consent is considered assault in law, even if the action is medically beneficial and done in good faith.\n\nThe types of consent are primarily divided into:\n1. Implied consent: This type of consent is not expressed by words or in writing but is implied by the patient's actions. For example, when a patient visits a doctor's chamber and narrates their complaints, it is implied that they have given consent for a physical examination.\n2. Expressed consent: This type is specifically stated by the patient. Expressed consent can be either Verbal or Written."
+        },
+        {
+          "id": "2-2",
+          "name": "What is Dichotomy? (B.A-1)",
+          "answer": "Dichotomy, also known as fee splitting, means receiving or giving commission or other benefits to a professional colleague, manufacturer, or trader in drugs, appliances, a chemist, or a dentist. This practice is classified as serious professional infamous conduct. A physician is prohibited from giving, soliciting, or receiving any gift, gratuity, commission, or bonus in consideration for referring, recommending, or procuring any patient for treatment."
+        },
+        {
+          "id": "2-3",
+          "name": "What do you mean by Fee sharing? Tell its importance. (B.A-2, 6)",
+          "answer": "Fee sharing refers to the sharing of fees generally received by a combined operation among the surgeon, their assistants, nurses, and bearers, especially when working in private clinics.\n\nThe medico-legal importance of fee sharing is that it is considered ethical, and therefore, there is no question of erasure of the practitioner's name from the registration due to this practice."
+        },
+        {
+          "id": "2-4",
+          "name": "Define medical ethics? Tell any 4 codes of medical ethics. (B.A-3, 10)",
+          "answer": "Medical ethics deals with the moral principles which should guide the members of the medical profession in the course of their practice of medicine and their dealings with their patients and other members of the profession. Alternatively, it is concerned with the moral principles that should guide members of the medical profession in their dealings with each other, their patients, and the State.\n\nFour key codes from the International Code of Medical Ethics/Geneva Declaration include:\n1. I solemnly pledge myself to consecrate my life to the service of humanity.\n2. I will give to my teachers the respect and gratitude that is their due.\n3. The health of my patient will be my first consideration.\n4. I will respect the secrets that are confided in me, even after the patient has died."
+        },
+        {
+          "id": "2-5",
+          "name": "What is professional infamous conduct? What are the acts that constitute it? (B.A-3, 18, 20)",
+          "answer": "Professional infamous conduct (PIC) is defined as \"that act of a medical man, done in the pursuit of his profession, with regard to which it would be reasonably regarded as disgraceful and dishonorable by his professional brethren of good repute and competence\". This conduct implies an abuse of the professional position.\n\nActs that constitute professional infamous conduct include:\n• Adultery.\n• Criminal abortion.\n• Dichotomy/fee splitting.\n• Covering (assisting an unqualified person to treat or operate).\n• Advertising.\n• Using touts or agents for procuring patients.\n• Issuing a false certificate."
+        },
+        {
+          "id": "2-6",
+          "name": "A color blind driver came to your chamber. Will you disclose the matter to his master? (B.A-3)",
+          "answer": "Yes, the matter should be disclosed to the appropriate authority if the driver refuses to accept the advice to stop driving. This disclosure is permitted under the concept of privileged communication. A doctor has the right to inform proper authority of a condition like color blindness in individuals such as a driver or pilot. Disclosure is justified in the interest of the community or the state."
+        },
+        {
+          "id": "2-7",
+          "name": "Tell the punishment given by Bangladesh Judicial System. (B.A-4)",
+          "answer": "The punishments/sentences authorized by law in criminal cases include:\n• Death sentence.\n• Imprisonment for life.\n• Imprisonment, which can be rigorous (with hard labour including solitary confinement) or simple.\n• Forfeiture of property.\n• Fine."
+        },
+        {
+          "id": "2-8",
+          "name": "Define medical negligence. Tell its types. (B.A-4, 11)",
+          "answer": "Medical negligence (or Professional negligence/Malpraxis) is defined as absence of reasonable care & skill, or willful negligence of a medical professional in the treatment of a patient which causes bodily injury or death of the patient.\n\nThe sources define several types of negligence, including:\n• Civil malpraxis / negligence (e.g., failure to obtain informed consent, making a wrong diagnosis).\n• Criminal malpraxis / negligence (e.g., performing criminal abortion, amputation of the wrong limb).\n• Contributory negligence (concurrent negligence by the patient and doctor).\n• Corporate negligence (failure of the institution to follow established standards)."
+        },
+        {
+          "id": "2-9",
+          "name": "How can you differentiate between Medical certificate & Medicolegal report? (B.A-4)",
+          "answer": "Both are considered forms of medical documentary evidence.\n\n• Medical Certificate: This is a general document related to health or administrative facts, such as birth, death, age, or health certificates.\n• Medicolegal Report: This is a report prepared by a doctor usually on the requisition from some authorized person (like a Judge, Magistrate, or police officer). They are typically related to civil or criminal cases and include documents such as a post-mortem report, injury report, or report on rape."
+        },
+        {
+          "id": "2-10",
+          "name": "Define evidence. What are the medical documentary evidences? (B.A-5, 25)",
+          "answer": "Evidence means any statement in relation to a matter or fact under inquiry or a document or something, for the inspection of the court. It includes all statements made by witnesses and documents produced for court inspection.\n\nThe medical documentary evidences are:\n• Medical certificates (e.g., Birth certificates, Death certificates, Age certificates).\n• Medicolegal reports (e.g., Post-mortem report, Injury report, Report on rape).\n• Dying declaration (oral or written statement of a dying person).\n• Dying deposition (statement made under oath in the presence of the magistrate and accused)."
+        },
+        {
+          "id": "2-11",
+          "name": "Dr. 'X' is using agent for procuring patients. What should be the punishment? (B.A-5, 10)",
+          "answer": "Using touts or agents for procuring patients (or association with unqualified people) constitutes professional infamous conduct (PIC).\n\nPunishment for professional infamous conduct is given by the BMDC and may include a Warning, Temporary suspension, or Penal erasure (also called professional death sentence). Penal erasure means the permanent removal of the doctor's name from registration."
+        },
+        {
+          "id": "2-12",
+          "name": "What is Privileged communication? Give examples. (B.A-6, 16, 23)",
+          "answer": "Privileged communication is a statement made bonafide upon any subject matter by a doctor to the concerned authority, due to their duty to protect the interests of the community or the State. The communication must only be made to persons directly concerned.\n\nExamples of conditions under which professional secrecy can be disclosed (privileged communication):\n1. To notify authorities of cases of certain infectious diseases (like cholera or chicken pox).\n2. To inform proper authority if an individual (such as a driver or pilot) is suffering from color blindness.\n3. Disclosure in a court of law for the interest of justice.\n4. To report information about the commission of a crime (e.g., treating a bomb or firearm injury case) to law enforcement.\n5. To advise the cook to abstain from cooking if suffering from an infectious disease, and informing the employer in the interest of the community."
+        },
+        {
+          "id": "2-13",
+          "name": "Define Court. What are the types of Courts in Bangladesh? (B.A-7, 12)",
+          "answer": "A Court includes all judges and magistrates and all persons except arbitrators, legally authorized to take evidence.\n\nThe types of Courts in Bangladesh include:\n• Supreme Court (which has the Appellate division and High court division).\n• Criminal courts (e.g., Courts of session, Courts of magistrates).\n• Civil courts (e.g., Court of district judge, Family court, Labour court)."
+        },
+        {
+          "id": "2-14",
+          "name": "What is professional secrecy? Tell example. (B.A-7, 23)",
+          "answer": "Professional secrecy (or Medical confidentiality) is an implied contract between the medical practitioners and his patients whereby a doctor is obliged to keep as inviolable secrets all that comes to his knowledge about patients in course of his professional work.\n\nExamples of professional secrecy:\n• A doctor should not discuss the illness of his patient with others without the consent of the patient.\n• In a divorce case on medical ground, a doctor should not furnish any information without having consent of the patient concerned.\n• If a domestic servant is examined at the master's request, the doctor should not disclose any facts about the illness to the master without the consent of the servant, even though the master is paying the fee.\n• A doctor should maintain secrecy about certain facts disclosed during a post mortem examination whose disclosure might affect the reputation of the deceased or relatives."
+        },
+        {
+          "id": "2-15",
+          "name": "What is covering? Tell punishment of this condition. (B.A-8)",
+          "answer": "Covering means assisting someone who has no medical qualification to attend, treat or perform an operation on some person in case requiring professional discretion or skill.\n\nCovering constitutes professional infamous conduct (PIC). Punishment given by BMDC for PIC includes a Warning, Temporary suspension, or Penal erasure (professional death sentence)."
+        },
+        {
+          "id": "2-16",
+          "name": "Define medical etiquette and give example. (B.A-12, 19)",
+          "answer": "Medical etiquette is the subject concerned with the conventional laws & customs of courtesy which are generally followed between members of the medical profession. It deals with the conventional laws of courtesy observed among members of the medical profession.\n\nAn example is that a doctor should not criticize or denigrate the professional ability of another doctor while dealing with a patient."
+        },
+        {
+          "id": "2-17",
+          "name": "In between challan & inquest report which one is more valuable? (B.A-12)",
+          "answer": "The Inquest Report is arguably the more valuable document regarding the facts of the case. The Inquest Report documents the investigation into the cause of a suspicious death, containing a brief history about the dead body and the signature of the witness. Furthermore, a Magistrate's inquest (which produces a report) is considered superior to a police inquest. The Chalan is merely the written requisition submitted to the authorized medical officer requesting an autopsy."
+        },
+        {
+          "id": "2-18",
+          "name": "Define malpraxis. Tell its components. (B.A-13, 22)",
+          "answer": "Malpraxis (or Professional negligence) is defined as the absence of reasonable care & skill, or willful negligence of a medical professional in the treatment of a patient which causes bodily injury or death of the patient.\n\nThe criteria that must be satisfied to establish liability for negligence (the components) are:\n1. Duty: The existence of a duty of care by the doctor.\n2. Dereliction: Failure on the part of the doctor to maintain applicable standard of care and skill.\n3. Direct causation: The failure of duty must lead to damage.\n4. Damage: The damage should be of a type that would have been foreseen by a reasonable physician."
+        },
+        {
+          "id": "2-19",
+          "name": "What do you mean by BMDC and BMA? (B.A-14, 21)",
+          "answer": "• BMDC (Bangladesh Medical and Dental Council): This is a Government body. Its functions include the Recognition of Medical and Dental Qualifications, Registration of Medical and Dental Practitioners, and disciplinary functions like the power to remove names from the register.\n• BMA (Bangladesh Medical Association): This is a non-government organization. It is an organization that works to establish the rights and privileges of registered medical practitioners. All its members are elected."
+        },
+        {
+          "id": "2-20",
+          "name": "Tell the difference between dying deposition and dying declaration. (B.A-14, 22)",
+          "answer": "| Trait | Dying Declaration | Dying Deposition (Bed side court) |\n|---|---|---|\n| Recorded by | Magistrate or a doctor. | Always by a Magistrate. |\n| Oath | Is not necessary. | Is necessary (statement made under oath). |\n| Accused presence | Not necessary. | Accused or his lawyer must be present. |\n| Cross-examination | No opportunity for cross-examination. | Cross-examination is possible. |\n| Legal value if patient survives | No value. | Has value. |"
+        },
+        {
+          "id": "2-21",
+          "name": "Define conduct money. When it is provided? (B.A-16)",
+          "answer": "Conduct money is the fee offered or paid to a witness in civil cases, at the time of serving the summons to meet the expenses for attending the court.\n\nIt is provided in civil cases to the witness by the party that has called him. In criminal cases, although no fee is paid when the summons is served, the doctor is entitled to claim conveyance charges and a daily allowance after attending the court."
+        },
+        {
+          "id": "2-22",
+          "name": "Taking informed written consent is mandatory - Tell some conditions. (B.A-17)",
+          "answer": "Informed written consent is mandatory prior to:\n• Administration of general anesthetic.\n• Any procedure beyond routine physical examination, such as an operation, blood transfusion, or collection of blood.\n• Examining a victim in a criminal case.\n• Examination of a rape victim.\n• Examination in medicolegal cases of pregnancy, delivery and abortion.\n• Performing a major operation (failure to take written consent constitutes PIC)."
+        },
+        {
+          "id": "2-23",
+          "name": "Define Professional death sentence. (B.A-24)",
+          "answer": "Professional death sentence, also referred to as penal erasure, is defined as the permanent erasure or removal of the name of a registered medical practitioner from registration as a disciplinary action. It is imposed as a punishment for serious professional infamous conduct (PIC)."
+        },
+        {
+          "id": "2-24",
+          "name": "What do you mean by vicarious responsibilities? (B.A-24)",
+          "answer": "Vicarious liability (or vicarious responsibilities) means liability of a person due to the act of another. In medical practice, this signifies the responsibility of a superior medical or paramedical employee for the negligent act of his subordinate employees or those under training who are expected to work under the superior's guidance."
+        },
+        {
+          "id": "2-25",
+          "name": "What is contributory negligence? (B.A-25)",
+          "answer": "Contributory negligence is defined as concurrent negligence by the patient and doctor resulting in delayed recovery or harm to the patient. It is characterized as any unreasonable conduct or absence of ordinary care on the part of the patient or their attendant which combined with the doctor's negligence, contributed to the injury. Examples include the patient failing to give an accurate medical history or refusing to follow suggested treatment."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Identification, Forensic Radiology & Odontology",
+      "topics": [
+        {
+          "id": "3-1",
+          "name": "Tell genital signs of virginity. (B.A-2)",
+          "answer": "The genital signs of virginity include:\n• Labia Majora: They are typically adjacent to each other, fully developed, firm, elastic, and completely close the vaginal orifice. Even upon abduction of the legs, the vaginal orifice remains completely closed.\n• Labia Minora: These are usually covered by the labia majora and are soft, small, pinkish, and elastic.\n• Hymen: It is generally intact, rigid, and inelastic, with distinct and regular edges. The opening is narrow, hardly allowing the tip of the little finger to pass.\n• Fourchette and Posterior Commissure: Both the fourchette (where the lower portions of the labia minora fuse) and the posterior commissure are intact.\n• Vagina: It is typically narrow and tight, possessing walls that are approximated and rugose."
+        },
+        {
+          "id": "3-2",
+          "name": "How can you identify a driver from RTA? (B.A-3, 25)",
+          "answer": "Identifying a driver, especially if the body is mutilated or part of a mass disaster like a Road Traffic Accident (RTA), relies on key identification data:\n• Physical Findings: Identifying and documenting all injuries, particularly those consistent with occupant position (e.g., impact marks from the steering wheel or dashboard), are crucial.\n• Acquired Peculiarities: Occupational marks, tattoo marks, and scar marks found on the individual serve as data for identification.\n• Personal Data: Essential traits include age, sex, stature, and hair features.\n• Forensic Techniques: The identification process relies on the surest methods such as Fingerprint and DNA print."
+        },
+        {
+          "id": "3-3",
+          "name": "State medicolegal importance of 18 years of age. (B.A-4, B.B-2, 8)",
+          "answer": "The medicolegal importance of attaining 18 years of age includes several civil and criminal responsibilities:\n• Attainment of Majority: A person reaches majority at this age, except if they are under the guardianship of a court.\n• Marriage (Female): It is the minimum permissible age for a woman to enter into a marriage contract.\n• Legal Consent: A person above 18 years of age can give valid consent to suffer any harm that is neither intended nor known to cause death or grievous hurt.\n• Will and Franchise: A mentally sound person above 18 years can make a valid will and exercise the right to cast vote.\n• Kidnapping/Prostitution (Female): Taking a girl below 18 years from the custody of her legal guardian is considered kidnapping, and procuring a girl under this age for prostitution is an offense.\n• Employment: A person above 18 years can be employed in any authorized job in a factory."
+        },
+        {
+          "id": "3-4",
+          "name": "What are the findings in a girl habituated to sexual intercourse? (B.A-6)",
+          "answer": "A girl habituated to sexual intercourse (showing signs of defloration) may exhibit the following findings:\n• Genital Area: The labia majora are often not apposed to each other, and the vaginal orifice may be visible. The labia minora are exposed and separated.\n• Vagina: The vagina is wider, and the vaginal walls are relaxed. The natural folds, or rugae, are less folded. The fossa navicularis disappears.\n• Hymen: The hymen may be torn or, if intact, it is usually loose, elastic, and soft, possessing a wide opening sufficient to admit two or more fingers. The remnants of a ruptured hymen may form Carunculae hymenalis.\n• Clitoris: The clitoris may be large.\n• Extra-genital Signs: The breasts are typically large and pendulous; the nipples are large, and the areolas are larger and darker in color. Signs of previous pregnancy or delivery may also be present."
+        },
+        {
+          "id": "3-5",
+          "name": "How will you detect the criminal who removed the tattoo mark? (B.A-7)",
+          "answer": "If a person, particularly a criminal, attempts to conceal their identity by artificially obliterating or removing a tattoo mark, the pigments can often still be detected in the nearest lymph glands. The physician can also attempt to erase the mark using methods like surgery, electrolysis, corrosive substances, or laser beams."
+        },
+        {
+          "id": "3-6",
+          "name": "How can you differ muslim male from hindu male? (B.A-8)",
+          "answer": "The difference between a Muslim male and a Hindu male can be based on certain traditional practices:\n• Circumcision: A Muslim male is circumcised. A Hindu male is typically not circumcised.\n• Hindu Cultural Marks: A Hindu male may have a sacred thread, a neck lace of wooden beads, a cast mark on the forehead, a tuft of hair on the back of the head, or piercing of ear lobules."
+        },
+        {
+          "id": "3-7",
+          "name": "What is easiest and surest methods of identification? (B.A-9)",
+          "answer": "The following are noted as the easiest and surest methods of identification:\n• Easiest method of identification: Photograph.\n• Surest method of identification: Fingerprint and DNA print."
+        },
+        {
+          "id": "3-8",
+          "name": "How will you determine the stature of a person from a dissected arm? (B.A-10)",
+          "answer": "To determine the stature (height) of a person from a dissected arm, forensic experts use the principles of forensic osteology. The arm contains the humerus, which is a long bone. Long bones are examined to determine the stature of an individual. By measuring the length of the long bone (such as the humerus) and applying relevant formulas, the height of the victim can be approximated."
+        },
+        {
+          "id": "3-9",
+          "name": "Define Forensic Dactylography. Types of fingerprints? (B.A-18, B.B-5)",
+          "answer": "• Forensic Dactylography: This is defined as the study of fingerprint as a method of identification. It is the process of taking the impression of papillary ridges of the fingertips for the purpose of identification.\n\n• Types of Fingerprints: Based on the ridge pattern, there are four types of fingerprints, along with their approximate percentage distribution:\n1. Loop (67%)\n2. Whorl (25%)\n3. Arch (6–7%)\n4. Composite/Compound (1–2%)"
+        },
+        {
+          "id": "3-10",
+          "name": "What are the traits of identification for living person? (B.A-13, B.B-2)",
+          "answer": "The traits or data points used for the identification of a living person include:\n• Photograph\n• Handwriting\n• Gait\n• Speech and voice\n• Tricks of manner and habit\n• Mental power and memory\n• Education"
+        },
+        {
+          "id": "3-11",
+          "name": "Tell the medicolegal importance of 21 years of age. (B.B-1)",
+          "answer": "The medicolegal importance of 21 years of age is as follows:\n• Marriage (Male): It is the minimum age for the marriage contract of a male.\n• Majority: It is the age for attainment of majority for a person who was previously under lawful guardianship.\n• Juvenile Offenders (Female): A female juvenile offender is not detained in a correctional school beyond the age of 21 years."
+        },
+        {
+          "id": "3-12",
+          "name": "Define identification. Absolute data of identification? (B.B-3, 9, 16)",
+          "answer": "• Identification: This means the exact establishment of the individuality of a person (living or dead).\n• Absolute Data of Identification (Surest Methods): The two absolute/surest methods for fixing the personality of an individual are fingerprint and DNA print."
+        },
+        {
+          "id": "3-13",
+          "name": "Mention the medicolegal importance of 15 years & 16 years of age. (B.B-4)",
+          "answer": "• Medicolegal Importance of 15 Years of Age:\no Rape: Sexual intercourse, even with one’s own wife, below 15 years constitutes rape.\no Employment: A person completing 15 years is allowed to work in a factory as an adult if a doctor grants a fitness certificate.\n\n• Medicolegal Importance of 16 Years of Age:\no Consent to Sexual Intercourse: A girl above 16 years of age can give valid consent for sexual intercourse irrespective of marriage (\"sweet sixteen\").\no Juvenile Offenders (Male): Male offenders under this age are juvenile offenders who may be sent to a Brostal school."
+        },
+        {
+          "id": "3-14",
+          "name": "Define trace evidence? Give some example. (B.B-5)",
+          "answer": "Trace evidence is defined as something contaminated with other materials that provides tremendous help in medicolegal and other forensic investigations.\n\nExamples of trace evidence include:\n• Blood\n• Semen\n• Saliva\n• Hair\n• Fingerprints\n• Weapons and tools\n• Clothes and fibers\n• Dust and dirt"
+        },
+        {
+          "id": "3-15",
+          "name": "Why dactylography is regarded as an absolute method of identification? (B.B-5)",
+          "answer": "Dactylography (fingerprint system) is regarded as an absolute method of identification for several reasons:\n• Accuracy: It is a 100% accurate method in establishing identity.\n• Uniqueness: It is a better method than even DNA profiling because DNA profiles would be the same in identical twins, but dactylography prints are different.\n• Permanence: The fingerprint of an individual remains unaltered from birth to death.\n• Accessibility: It is a cheap, easy, simple, and quicker method."
+        },
+        {
+          "id": "3-16",
+          "name": "How can you determine sex of a decomposed body? (B.B-11)",
+          "answer": "The sex of a decomposed or mutilated body can be determined by examining the following:\n• Bones: By studying the bones, particularly the pelvis, skull, and long bones.\n• Internal Organs: The prostate and nulliparous uterus are the last organs to decompose and can help determine sex even in an advanced state of decomposition.\n• Hair: The distribution of pubic hair can be examined (if present).\n• Microscopic Study: Histological examination of residual tissue (if available) for sex chromatin (Barr bodies or Davidson bodies).\n• DNA: DNA analysis from long bones or teeth."
+        },
+        {
+          "id": "3-17",
+          "name": "Define tattoo. What complication may arise? (B.B-12, 17)",
+          "answer": "• Tattoo: A tattoo is defined as a design made on the skin artificially by multiple small punctures wound with needles or other pointed instruments dipped in coloring materials.\n• Complications: Complications arising from tattooing include Abscess, AIDS, Allergic reaction, Erysipelas, Tetanus, Fungal infection, Hepatitis, Gangrene, Leprosy, and Tuberculosis."
+        },
+        {
+          "id": "3-18",
+          "name": "A headless dead body is brought... Determine height. (B.B-18)",
+          "answer": "The height (stature) of a headless dead body can be determined by applying forensic osteology techniques to the remaining parts, specifically the long bones. Experts examine and measure the long bones, such as the femur or humerus, to estimate the stature of the individual."
+        },
+        {
+          "id": "3-19",
+          "name": "Define scar. Is it temporary or permanent? (B.B-14, 19, 22)",
+          "answer": "• Scar: A scar is a fibrous tissue covered by epithelium without hair follicles, sweat glands, and pigment produced from the healing of a wound.\n• Permanence: Scars are permanent."
+        },
+        {
+          "id": "3-20",
+          "name": "What is race? Tell its types. (B.B-18, 21)",
+          "answer": "• Race: Race is a biological concept denoting the different human species united by common heredity.\n• Types (Major Human Races):\n1. Caucasians (white)\n2. Mongolian (yellow brown)\n3. Negros (black)"
+        },
+        {
+          "id": "3-21",
+          "name": "Mention medicolegal importance of Hair. (B.B-23)",
+          "answer": "The medicolegal importance of hair includes:\n• Identification: Hair is important in linking a weapon or an accused to a victim in criminal investigations.\n• Wounds and Injuries: The nature of the weapon can sometimes be inferred from injuries to the hair, and hair findings help differentiate between scalds and burns. Singeing indicates burns or a close-range firearm injury.\n• Poisoning: In cases of chronic poisoning involving heavy metals like arsenic, the poison can be detected in the hair.\n• Age and Sex: Age can be roughly determined from hair growth/distribution, while sex can be determined from analysis for Barr bodies.\n• Stains: Stains on the hair (such as mud, seminal fluid, or blood) may indicate the nature of the assault."
+        },
+        {
+          "id": "3-22",
+          "name": "What are the medicolegal importance of teeth? (B.B-25)",
+          "answer": "The medicolegal importance of teeth (forensic odontology) includes:\n• Identification: Dental identification is a highly sophisticated comparative method, useful in determining age, sex, and blood group (from pulp tissue). Identifying features like missing teeth or faulty alignment are crucial.\n• Resistance to Decay: Teeth resist decomposition and fire, making them vital for identification in highly decomposed, mutilated, or burnt bodies.\n• Injury Assessment: Loss of a tooth due to assault is legally considered a grievous hurt.\n• Criminals/Bite Marks: Criminals can be identified through bite marks left on human tissue or foodstuffs. Bite marks found on private parts suggest sexual offense.\n• Poisoning: Some poisons, such as arsenic and mercury, can be detected in the teeth even long after death."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Trace Evidence & DNA Identification",
+      "topics": [
+        {
+          "id": "4-1",
+          "name": "What are the information you will obtain from a sample of blood stain? (B.A-7)",
+          "answer": "When examining a sample of blood stain, the following critical information can be obtained:\n• Origin and Source: It is initially determined whether the stain is actually due to blood or some other material. If it is blood, forensic investigation ascertains if it is of human or animal origin. The examination also reveals the source of the bleeding, establishing if it belongs to the victim or the accused. Additionally, the source can be determined as being from an injury, haematemesis, haemoptysis, miscarriage, or menstruation.\n• Individual Characteristics: Analysis can determine the sex and blood group of the person from whom the blood originated.\n• Time and Condition: The time elapsed since the bleeding occurred (e.g., time of assault or injury) and whether the bleeding was antemortem or postmortem can be determined. Experts also look for abnormal constituents like fetal haemoglobin."
+        },
+        {
+          "id": "4-2",
+          "name": "What are the examinations you will do in a suspected case of seminal stain? (B.B-1)",
+          "answer": "To detect and analyze a suspected case of seminal stain, several systematic examinations are performed:\n• Physical Tests: This involves examining characteristics such as color, odor, consistency, appearance, and specific gravity of the stain.\n• Microscopic Examination: This is conducted to gain absolute proof by detecting the presence of spermatozoa, which confirms the existence of semen.\n• Chemical Tests: A variety of specific chemical analyses are used, including the Florence test, the Barbcrio's test, and tests focusing on acid phosphatase, creatine phosphokinase (CPK), choline, and spermine.\n• Immunological Methods: These methods are also employed during the chemical examination process."
+        },
+        {
+          "id": "4-3",
+          "name": "An unknown body was found in the jungle. What samples will you collect for DNA profiling? (B.B-10, 16)",
+          "answer": "For DNA profiling of an unknown dead body, samples are collected based on the best chance of obtaining viable DNA, regardless of the state of decomposition:\n• Hard Tissues: The best materials for DNA analysis, particularly in decomposed bodies, are those that resist decay, such as long bones and teeth (specifically the 2nd molar teeth).\n• Soft Tissues: Samples of soft tissues that can be collected include blood, buccal swabs, muscle, skin, and tissues from internal organs, including the brain.\n• Appendages: Other useful specimens include hairs and finger nails."
+        },
+        {
+          "id": "4-4",
+          "name": "A blood stain was found in the scene of the crime. How will you determine whether it is ordinary blood or menstrual blood? (B.B-11, 17)",
+          "answer": "The key differences between ordinary (fresh) blood and menstrual blood allow for their differentiation based on specific properties and contents:\n\n| Trait | Fresh / Ordinary Blood | Menstrual Blood |\n|---|---|---|\n| Clot formation | Occurs. | Not occurs. |\n| Color | Bright red. | Dark red. |\n| Odour | Salty odour. | Disagreeable, fishy odour. |\n| Reaction | Alkaline. | Acidic. |\n| Viscosity | Less viscid. | More viscid. |\n| Micro-organisms | Absent (except in disease). | Normally contains micro-organisms (e.g., lactobacilli). |\n| Contents | Lacks endometrial and vaginal epithelial cells. | Contains endometrial and vaginal epithelial cells. |"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Autopsy & Post-Mortem Artifacts",
+      "topics": [
+        {
+          "id": "5-1",
+          "name": "What is 'I', 'Y' and modified 'Y' shaped incision? (B.A-1, 4)",
+          "answer": "These terms refer to the primary incisions used to open the neck, thorax, and abdomen during an autopsy:\n• 'I' (Midline) shaped incision: This incision extends vertically down the midline, typically from the chin to the pubic symphysis, passing either to the left or right of the umbilicus.\n• 'Y' shaped incision: This incision begins with two separate cuts originating from a point close to the acromial process of each clavicle. These two cuts extend downward below the breast to the xiphoid process, where they meet to form a single vertical line that is then carried down to the pubic symphysis.\n• Modified 'Y' shaped incision: This may refer to the technique where a midline incision is made from the suprasternal notch to the symphysis pubis, and the incision then extends from the suprasternal notch over the clavicle to its center on both sides, passing upwards over the neck behind the ear."
+        },
+        {
+          "id": "5-2",
+          "name": "What preservatives are used during viscera preservation? (B.A-2, 4, 8, 18)",
+          "answer": "The choice of preservative depends heavily on the substance being investigated:\n• Saturated Sodium Chloride (NaCl) solution: This is a frequently used preservative because it is easily available, cheap, and effective. It is generally used except in suspected poisoning cases involving corrosive substances, phenol, alkali, corrosive sublimate, and aconite.\n• Rectified spirit: This is typically used in cases where alkali or acid poisoning is suspected (with the exception of carbolic acid).\n• Sodium or Potassium Fluoride and Potassium Oxalate: These agents are used for preserving blood intended for toxicological analysis (e.g., for alcohol, cocaine, cyanide, and carbon monoxide poisoning).\n• 10% Neutral Formalin or 95% Alcohol: These are used for preserving tissues when the viscera are needed for histopathological examination.\n• Formaldehyde should generally not be used for viscera preservation in poisoning cases."
+        },
+        {
+          "id": "5-3",
+          "name": "What are the incisions given during autopsy? (B.A-3)",
+          "answer": "The major incisions given during a medicolegal autopsy involve the scalp, head, and trunk:\n• Head/Scalp: A transverse incision is made across the vertex of the head, extending from one mastoid process to the other.\n• Trunk (Neck, Thorax, and Abdomen): The body cavities are usually opened using either the 'I'-shaped incision or the 'Y'-shaped incision. A midline incision extending from the suprasternal notch to the symphysis pubis with lateral extensions over the clavicles may also be used."
+        },
+        {
+          "id": "5-4",
+          "name": "What are the different types of autopsy? (B.A-4, 23)",
+          "answer": "Autopsies are primarily classified into three categories:\n1. Medicolegal autopsy: This is performed in unnatural and suspicious circumstances of death and is compulsory by law. Its purpose is to determine the cause of death and aid in the administration of justice.\n2. Pathological (clinical) autopsy: This is performed by a pathologist or clinician when the diagnosis could not be reached during treatment or to confirm a doubtful diagnosis.\n3. Anatomical (academic) autopsy: This involves the dissection of dead bodies by students of anatomy for educational purposes to understand the details of organs and structures."
+        },
+        {
+          "id": "5-5",
+          "name": "What is negative autopsy? Tell the causes of negative autopsy. (B.A-5, 20)",
+          "answer": "A negative autopsy occurs when gross and microscopic examination, toxicological analyses, and laboratory investigations fail to reveal a cause of death. This finding is reported in approximately 2–5% of all autopsies.\n\nCauses of negative autopsy include:\n• Inadequate or incorrect history (e.g., death due to vagal inhibition or status epilepticus may show no anatomical findings).\n• Insufficient external examination (e.g., missing fresh or old needle marks in a drug addict, or overlooked burns in electrocution cases).\n• Improper internal examination (e.g., missing air embolism or pneumothorax).\n• Lack of toxicological analysis or insufficient laboratory investigation.\n• Lack of adequate training of the doctor conducting the post-mortem."
+        },
+        {
+          "id": "5-6",
+          "name": "What is obscure autopsy? Give example/Causes. (B.A-6, 7, 16)",
+          "answer": "Obscure autopsies are those that do not yield a definite cause of death because the findings are minimal, indefinite, or entirely absent.\n\nCauses of obscure autopsy include:\n• Natural diseases: Cases involving obscure or microscopic findings only, or death precipitated by emotional stress or functional failure (e.g., epilepsy).\n• Biochemical disturbances: Such as Uraemia or Diabetes Mellitus (DM).\n• Endocrine dysfunction: Including Adrenal insufficiency.\n• Concealed trauma: Such as cerebral concussion or reflex vagal inhibition.\n• Poisoning: Cases involving neurotoxic or cytotoxic poisons, or death due to anaesthetic overdose without macroscopic changes.\n• Miscellaneous causes: Including drug idiosyncrasy or allergies."
+        },
+        {
+          "id": "5-7",
+          "name": "Name the viscera preserved in suspected poisoning. (B.A-8, 18)",
+          "answer": "In cases of suspected poisoning, the following are generally preserved for chemical analysis:\n• Stomach: The whole stomach with its entire contents.\n• Intestine: About 15-30 cm of the upper part of the small intestine.\n• Liver: Not less than 500g, or half of the liver (if the weight is less than 500g, the whole liver is preserved).\n• Kidneys: The longitudinal half of both kidneys.\n• Blood: Approximately 30 ml (minimum 10 ml).\n• Urine: Approximately 30 ml (if available).\n• Additional materials like heart, brain, bone, hair, nails, uterus, and vagina may be collected depending on the specific poison suspected."
+        },
+        {
+          "id": "5-8",
+          "name": "Define virtual autopsy. What are the disadvantages of it? (B.A-17)",
+          "answer": "Virtual autopsy (Virtopsy) is a non-invasive technique used to examine dead bodies, typically employing a combination of CT and MR imaging to determine the cause of death. This process aims to document forensic evidence in a minimally invasive and observer-independent manner.\n\nWhile the sources emphasize the advantages of new technologies like imaging, they note that the rapid pace of technological advancement presents critical challenges regarding cost, validation, and training of personnel. Furthermore, ethical and legal concerns regarding privacy and the handling of sensitive genetic data must be considered when integrating such innovations."
+        },
+        {
+          "id": "5-9",
+          "name": "What do you mean by open verdict? (B.A-17)",
+          "answer": "An open verdict is an outcome of an inquest that is done indefinitely. It is delivered when the cause of death cannot be established after the autopsy. This inquest could be reopened at any later date if further information becomes available."
+        },
+        {
+          "id": "5-10",
+          "name": "Define Forensic Pathology. (B.A-21)",
+          "answer": "Forensic pathology is defined as the branch of Forensic medicine that utilizes medical and pathological principles in determining the manner and causes of death. It is specifically involved in determining the cause and manner of death in circumstances that are unnatural, suspicious, unexplained, unexpected, sudden, and medically unattended."
+        },
+        {
+          "id": "5-11",
+          "name": "What are the pre-requisites needed for medicolegal autopsy? (B.A-24)",
+          "answer": "For a medicolegal autopsy, which does not require consent from relatives, the necessary pre-requisites include:\n• A Chalan (written requisition) from an authorized person, such as a Police officer, Magistrate, or Coroner.\n• A copy of the Inquest report.\n• Identification of the deceased by the accompanying police officer.\n• The examination must be conducted by an authorized Government medical officer.\n• An adequate Mortuary.\n• Sufficient Light, preferably natural sunlight, although artificial light may be used in urgent circumstances."
+        },
+        {
+          "id": "5-12",
+          "name": "A bundle of bones has been brought... What information you have to be obtained? (B.B-4)",
+          "answer": "From a piece or bundle of bones, the following essential information is obtained in a forensic investigation:\n• Whether the bones belong to a human or animal.\n• Whether the parts belong to one or more individuals.\n• Sex.\n• Age of death.\n• Race.\n• Stature (height) of the person.\n• Identification of the person.\n• Nature of injury.\n• Time since death."
+        },
+        {
+          "id": "5-13",
+          "name": "What are the parts of an autopsy report? (B.A-19)",
+          "answer": "An autopsy report is comprised of three main sections:\n1. The 1st part / Preamble: This section contains identifying details such as the authority ordering the examination, the date, time, and place of examination, and the particulars (name, age, sex) of the victim. It also includes the identification of the body.\n2. The 2nd part / The body of the report: This section details the observations and findings of the doctor, including a complete description of the external and internal examination of the body, and the nature, direction, site, and dimensions of any wounds.\n3. Conclusion / opinion with signature: This section states the doctor’s final opinion regarding the cause of death based on the findings. The report must be comprehensive, honest, objective, and scientific."
+        },
+        {
+          "id": "5-14",
+          "name": "Why saturated solution of common salt is preferable over rectified spirit for preservation of viscera? (B.B-8, 14)",
+          "answer": "Saturated solution of common salt (NaCl) is commonly used because it is easily available, cheap, and effective as a preservative.\n\nRectified spirit is not preferred as a general preservative because it is itself an alcohol. Using rectified spirit is contraindicated in suspected poisoning cases involving compounds such as alcohol, kerosene, chloral hydrate, formic acid, or formaldehyde. The presence of the preservative itself would interfere with the chemical detection of these specific poisons during laboratory analysis."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Death & Post-Mortem Changes",
+      "topics": [
+        {
+          "id": "6-1",
+          "name": "Define sudden death? Tell the causes of it. (B.A-2, 4, 5, 16, 19)",
+          "answer": "Sudden death is defined as death occurring when a person is not known to have been suffering from any dangerous disease, injury, or poisoning, and is found dead or dies within 24 hours after the onset of terminal symptoms. The incidence of sudden death is approximately 10% of all deaths.\n\nThe common causes of sudden death are grouped by the affected system:\n• Cardiovascular Causes (45% - 50%): These include coronary atherosclerosis, myocardial infarction (MI), coronary thrombosis, stenosis/insufficiency of heart valves, congenital heart diseases, acute/constrictive pericarditis, and infective conditions of the heart.\n• Respiratory Causes (15% - 23%): Examples include pulmonary embolism, massive haemoptysis (e.g., from pulmonary tuberculosis), fulminating viral infections or pneumonias, status asthmaticus, oedema glottis, or obstruction of the respiratory tract.\n• CNS Causes (10% - 18%): These include intracranial haemorrhage, subarachnoid haemorrhage, cerebral thrombosis, meningitis, encephalitis, epilepsy, brain tumour, or brain abscess.\n• Miscellaneous Causes (5% - 10%): These encompass conditions such as reflex vagal inhibition, anaphylactic reactions, or mismatched blood transfusion."
+        },
+        {
+          "id": "6-2",
+          "name": "Define death. Tell the types of death. (B.A-10, 17)",
+          "answer": "Death is the permanent and irreversible cessation of functions of the 3 interlinked vital systems of the body, collectively known as the Bishop’s tripod of life. These three vital systems are the nervous, circulatory, and respiratory systems. A person may be pronounced dead if they cannot spontaneously pick up and survive after the withdrawal of artificial maintenance.\n\nDeath is primarily classified in the following ways:\n• Clinical Stages of Death:\n1. Somatic Death (Clinical/Systemic Death): The complete and irreversible stoppage of circulation, respiration, and brain function.\n2. Molecular Death (Cellular Death): The death of cells and tissues individually, which occurs usually one to two hours after somatic death.\n• Medicolegal Classification (Manner of Death):\n1. Suicidal.\n2. Homicidal.\n3. Accidental.\n4. Natural (due to disease).\n• Gordon Classification (Hypoxia/Anoxia): This classification links death to four ways in which tissue anoxia occurs: Anoxic anoxia, Anaemic anoxia, Stagnant anoxia, and Histotoxic anoxia."
+        },
+        {
+          "id": "6-3",
+          "name": "What is Apparent death? What are the causes of it? (B.A-1)",
+          "answer": "Apparent death (also called suspended animation or death trance) is the condition in which signs of life are not found because the functions of the nervous, circulatory, or respiratory systems are interrupted for some time, or are reduced to a minimum, although the person is still alive. The functions of these systems may subsequently return, either spontaneously or after resuscitation.\n\nApparent death may occur voluntarily (e.g., by practitioners of Yoga) or involuntarily in circumstances such as:\n• Drowning.\n• Electrocution.\n• Severe syncopal attack.\n• Newborn infants.\n• Cerebral concussion or Sunstroke.\n• Cholera, Narcotic poisoning, or Shock."
+        },
+        {
+          "id": "6-4",
+          "name": "Tell the difference between rigor mortis & cadaveric spasm. (B.A-3, 24)",
+          "answer": "| Traits | Rigor Mortis (R.M.) | Cadaveric Spasm (C.S.) |\n|---|---|---|\n| Onset | Occurs 1-2 hours after death. | Occurs instantaneously at the moment of death. |\n| Mechanism | Known; caused by the progressive and irreversible breakdown of ATP. | Not clearly known; possibly neurogenic. |\n| Primary Flaccidity | R.M. follows the stage of primary muscular relaxation. | C.S. occurs without passing through the stage of primary relaxation. |\n| Muscles Involved | Affects all muscles of the body (voluntary and involuntary) gradually. | Usually restricted to a single group of voluntary muscles. |\n| Rigidity | Comparatively moderate stiffness. | Marked stiffness (great force is required to overcome it). |\n| Medicolegal Value | Used primarily to estimate the time since death. | Reflects the deceased's last act, often grasping a weapon or object. |"
+        },
+        {
+          "id": "6-5",
+          "name": "What is rigor mortis? Tell its mechanism. (B.A-6)",
+          "answer": "Rigor mortis is a condition characterized by the stiffening and shortening of the muscles that occurs due to chemical changes within their myofibrils following the period of primary relaxation after death.\n\nMechanism of Rigor Mortis: Rigor mortis is a physicochemical change that results from a lack of oxygen after death, leading to the cessation of ATP (adenosine triphosphate) production.\n1. ATP Depletion: Energy cannot be produced from glycogen via glucose using oxidative phosphorylation, and remaining ATP is progressively destroyed.\n2. Actinomyosin Link: When ATP levels fall to a critical level (85% of normal), the actin and myosin fibers bind together, forming a rigid link known as actinomyosin.\n3. Muscle Stiffness: Since energy (ATP) is required to separate the actin and myosin filaments, the lack of ATP causes the muscles to become hard and rigid. Maximum rigidity occurs when ATP falls to 15% of normal."
+        },
+        {
+          "id": "6-6",
+          "name": "Tell the difference between lung findings of live birth and stillbirth. (B.A-9)",
+          "answer": "The following differences in post-mortem findings of the lungs are observed when comparing stillbirth (un-respired lungs) and live birth (respired lungs):\n\n| Traits | Un-respired Lungs (Stillbirth) | Respired Lungs (Live Birth) |\n|---|---|---|\n| Weight | 1/70 of body weight. | 1/35 of body weight. |\n| Volume | Normal or small. | Larger and cover the heart. |\n| Consistency | Dense, firm, non-crepitant. | Soft, spongy, crepitant (due to air). |\n| Color | Uniformly reddish-brown or bluish-red. | Mottled or marbled appearance. |\n| Flotation (Hydrostatic Test) | Whole and parts sink in water. | Expanded areas or whole float in water. |"
+        },
+        {
+          "id": "6-7",
+          "name": "Define rigor mortis. Tell the conditions simulating rigor mortis. (B.A-12)",
+          "answer": "Rigor mortis is a state characterized by the stiffening & shortening of the muscle that results from chemical changes in the muscle fibers following the initial period of primary relaxation after death.\n\nThe conditions that may resemble or simulate true rigor mortis (the differential diagnoses) include:\n1. Cadaveric spasm (Instantaneous rigor).\n2. Heat stiffening.\n3. Cold stiffening.\n4. Gas stiffening (due to putrefactive gases)."
+        },
+        {
+          "id": "6-8",
+          "name": "Tell the difference between antemortem and postmortem clot. (B.A-12, 23)",
+          "answer": "| Points | Ante-mortem clot | Post-mortem clot |\n|---|---|---|\n| Color | Yellow or grayish white. | Dark red or almost black. |\n| Consistency | Firm. | Gelatinous. |\n| Elasticity | Elastic. | Non-elastic. |\n| Composition | Formed mainly by platelet & fibrin. | Characterized by a lack of fibrin strands. |\n| Attachment | Attached to the vessel wall. | Not attached to the vessel wall. |"
+        },
+        {
+          "id": "6-9",
+          "name": "What do you mean by post mortem caloricity? (B.A-8)",
+          "answer": "Post-mortem caloricity is a phenomenon where the temperature of the dead body, instead of immediately dropping (cooling), remains raised for the first two hours following death.\n\nThis condition occurs in certain cases due to underlying pathological states that cause excessive heat generation just prior to or at the time of death, including:\n• Sun stroke or heat hyperpyrexia.\n• Septicaemic conditions.\n• Tetanus or strychnine poisoning.\n• Febrile illness due to other causes."
+        },
+        {
+          "id": "6-10",
+          "name": "Define death trance. Give some examples. (B.A-11, 16)",
+          "answer": "Death trance (suspended animation or apparent death) is the state in which signs of life (nervous, circulatory, respiratory) are so reduced to a minimum that they cannot be perceived by conventional methods, although the person is still alive.\n\nInvoluntary examples of conditions where death trance may be observed include:\n• Drowning.\n• Electrocution.\n• Severe syncopal attack.\n• Newborn infants.\n• Cerebral concussion or Sunstroke.\n• Narcotic poisoning."
+        },
+        {
+          "id": "6-11",
+          "name": "Define molecular death. Tell its MLI. (B.A-21)",
+          "answer": "Molecular death (or cellular death) is the death of individual cells and tissues, a process that occurs, usually, one to two hours after the cessation of the vital functions (somatic death).\n\nMedicolegal Importance (MLI):\n1. It is considered a confirm sign of death.\n2. It indicates the molecular death of the muscle involved.\n3. Organ transplantation is not possible after molecular death has occurred."
+        },
+        {
+          "id": "6-12",
+          "name": "Tell the differences between Bruise and Hypostasis. (B.A-22)",
+          "answer": "| Traits | Bruise (Contusion) | Hypostasis (Post-mortem Staining) |\n|---|---|---|\n| Cause | Extravasation of blood due to rupture of vessels. | Capillo-venous distension due to gravity settling blood. |\n| Nature of Change | Ante-mortem phenomenon. | Post-mortem phenomenon. |\n| Effect of Pressure | No change on application of pressure. | Pressed spot appears pale. |\n| Cut section | Haemorrhage evident; cannot be washed out. | Blood oozes out; can be cleaned by washing. |"
+        },
+        {
+          "id": "6-13",
+          "name": "Define Forensic Thanatology. (B.A-24)",
+          "answer": "Forensic thanatology is the branch of forensic medicine concerned with the scientific study of death, which includes the types of death, the various events or changes that occur in the cadaver, and their medicolegal significance."
+        },
+        {
+          "id": "6-14",
+          "name": "Define mode of death. What are the modes of death? (B.A-20)",
+          "answer": "The mode of death refers to the abnormal physiological state that existed at the time of death.\n\nBased on the three vital systems (Bichat’s tripod of life), the modes of death are:\n1. Coma: Failure of function of the brain.\n2. Syncope: Failure of function of the heart.\n3. Asphyxia: Failure of function of the respiratory system."
+        },
+        {
+          "id": "6-15",
+          "name": "Define Brain death. Tell its types. (B.A-15, 22)",
+          "answer": "Brain death is defined as the permanent and irreversible cessation of function of the entire brain (cerebrum, cerebellum, and brain stem), even if the heart function is artificially maintained. This is considered legal death.\n\nThe sources define brain death based on the site of destruction in the brain:\n1. Cortical or Cerebral Death (or Persistent Vegetative State): Only the cerebral cortex is destroyed, leaving the brain stem intact, which maintains continuous heartbeat and spontaneous respiration.\n2. Brain Stem Death: Characterized by the loss of the vital respiratory center and ascending reticular activating system, leading to irreversible coma and inability to breathe spontaneously.\n3. Whole Brain Death: Permanent cessation of functions of the cerebrum, cerebellum, and brain stem."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Wounds & Weapons",
+      "topics": [
+        {
+          "id": "7-1",
+          "name": "Define Assault, Hurt and Battery? (B.A-3)",
+          "answer": "• Assault: An assault is an offer or threat or attempt to apply force to the body of another in a hostile manner. It is a threat by one to the unlawful force against another.\n• Hurt: Hurt means bodily pain, disease, or infirmity caused to any person. Inflicted mental pain is not included in this definition.\n• Battery: Battery is intentional and unauthorized physical contact with a person without his consent. For example, a battery includes touching a person or laying hold on his clothes in a rude or hostile manner."
+        },
+        {
+          "id": "7-2",
+          "name": "Define Injury, Wound and Battery. (B.A-2, 3, 4)",
+          "answer": "• Injury: Injury is any harm, whatever illegally caused to any person in body, mind, reputation, or property.\n• Wound: A wound is a break of the natural continuity of any of the tissues of the living body. Surgically, it means breaking of the natural continuity of skin or mucous membrane.\n• Battery: Battery is intentional and unauthorized physical contact with a person without his consent."
+        },
+        {
+          "id": "7-3",
+          "name": "Define bruise. Classify it. (B.A-15)",
+          "answer": "• Definition: Bruises (or contusions/ecchymosis) are blunt force injuries characterized by extravasation of blood (hemorrhage) into the tissue spaces, typically caused by the rupture of capillaries. There is no breach of continuity of the overlying skin.\n• Classification: Depending upon its location within the body, a bruise is classified as:\n1. Intradermal.\n2. Subcutaneous.\n3. Deep."
+        },
+        {
+          "id": "7-4",
+          "name": "Define abrasion? Mention its types. (B.A-3, 8)",
+          "answer": "• Definition: An abrasion is a superficial injury causing destruction of the skin, usually involving only the superficial layers of the epidermis. It results from friction or pressure against a hard, blunt, and rough surface.\n• Types: Abrasions are generally classified into four types:\n1. Scratches or linear abrasions (caused by pointed objects like fingernails or thorns).\n2. Grazes or sliding abrasions (caused by movement between the skin and a rough surface, common in road traffic accidents).\n3. Pressure abrasions (caused by crushing, such as the ligature mark in hanging or strangulation).\n4. Impact abrasions (caused by striking against a rough object, often leaving a patterned imprint)."
+        },
+        {
+          "id": "7-5",
+          "name": "Define laceration? What are types of it? (B.A-14)",
+          "answer": "• Definition: A lacerated wound is a tear or split of the skin, mucous membrane, or underlying tissues caused by the application of blunt force, stretching the tissue beyond its elasticity. The wound margins are typically ragged and irregular.\n• Types: Lacerated wounds are commonly divided into five types based on their production:\n1. Split laceration (or incised-looking wound): Occurs when skin and subcutaneous tissue are crushed against bone by a blunt weapon, producing sharp, linear margins.\n2. Stretch laceration: Caused by heavy, forceful frictional impact.\n3. Avulsion (or shearing laceration): Caused by grinding compression that separates the skin from the underlying tissue.\n4. Cut laceration: Produced by the \"not-so-sharp\" edge of a heavy cutting weapon, often seen in chop wounds.\n5. Tear laceration: Tearing of skin and tissues that can occur from impact by an irregular or sharp object."
+        },
+        {
+          "id": "7-6",
+          "name": "What is incised wound? How is it produced? (B.A-17, 23)",
+          "answer": "• Definition: An incised wound is a clean cut or slash produced by the sharp edge of a weapon such as a knife, dagger, or razor. Its length is typically greater than its depth and width.\n• Production: The wound is caused by the striking, sawing, or drawing of the sharp edge upon the body. The margins of the resulting wound are characteristically well-defined, cleanly cut, and sharp."
+        },
+        {
+          "id": "7-7",
+          "name": "Tell the difference between antemortem wound and postmortem wound. (B.A-20)",
+          "answer": "The difference between wounds inflicted during life (ante-mortem) and after death (post-mortem) primarily rests on the presence of vital reactions:\n\n| Trait | Ante-mortem Wounds | Post-mortem Wounds |\n|---|---|---|\n| Edges | Swollen, everted, retracted, and the wound gapes. | Edges do not gape but are closely approximated. |\n| Hemorrhage | Abundant and usually arterial. | Slight or none, and always venous. |\n| Clotting | Clot is present and firmly attached. | No clotting or soft clot. |\n| Inflammation/Repair | Present (vital reaction). | Absent. |\n| Color | Bright-reddish brown. | Yellowish. |"
+        },
+        {
+          "id": "7-8",
+          "name": "Tell the components of Grievous hurt? (B.A-10, 12)",
+          "answer": "Grievous hurt refers to specific severe injuries listed in Section 320 BPC. The eight components are:\n1. Emasculation.\n2. Permanent privation of sight of either eye.\n3. Permanent privation of hearing of either ear.\n4. Privation of any member or joint.\n5. Destruction or permanent impairing of the power of any member or joint.\n6. Permanent disfiguration of head or face.\n7. Fracture or dislocation of a bone or teeth.\n8. Any hurt which endangers life, or which causes the sufferer severe bodily pain, or makes him unable to follow his ordinary pursuits for a period of 20 days."
+        },
+        {
+          "id": "7-9",
+          "name": "How will you diagnose the age of this wound (Blue/Brown Bruise)? (B.A-6, 7, 24)",
+          "answer": "The age of a bruise is determined by the color changes resulting from the breakdown of hemoglobin:\n• Blue Bruise (Few hours – 3 days): The color turns blue due to the process of deoxygenated hemoglobin formation.\n• Brown Bruise (4th day): The color becomes bluish-black to brown due to the conversion of hemoglobin into hemosiderin."
+        },
+        {
+          "id": "7-10",
+          "name": "Incised wound more dangerous than incised-looking wound - explain. (B.A-16, 21)",
+          "answer": "An incised wound is generally considered more dangerous than an incised-looking wound (split laceration) primarily because of the mechanism of bleeding:\n1. Cause and Margins: An incised wound is caused by a sharp cutting weapon with cleanly cut margins. An incised-looking wound is caused by blunt force applied over a bony prominence, resulting in splitting of the skin.\n2. Hemorrhage: In an incised wound, blood vessels are cleanly cut, leading to delayed clotting and profuse external bleeding. This excessive blood loss is a common cause of death (hemorrhagic shock). Conversely, in an incised-looking wound, the vessels are crushed or torn across, promoting rapid clotting and resulting in less pronounced bleeding."
+        },
+        {
+          "id": "7-11",
+          "name": "Case: Dislocated upper 2 incisor teeth. Type of injury? (B.A-9)",
+          "answer": "The injury is a Grievous Hurt. Dislocation of a tooth is one of the specific components listed under the definition of grievous hurt in the Penal Code."
+        },
+        {
+          "id": "7-12",
+          "name": "Case: Fractured nasal bone after punch. (B.A-16)",
+          "answer": "The injury is a Grievous Hurt. A fracture of a bone (nasal bone) is defined as one of the components of grievous hurt."
+        },
+        {
+          "id": "7-13",
+          "name": "Case: 2 stab injuries over abdomen. (B.A-20)",
+          "answer": "• Cause of Death: The major immediate cause of death from stab injuries over the abdomen is typically Hemorrhage leading to shock, resulting from injury to internal vessels or organs. Delayed causes include infection leading to peritonitis or septic shock.\n• Weapon Identification: The external and internal appearance of the wounds must be examined. A doctor should look for the dimensions of the wound, the shape (e.g., elliptical/slit-like for a double-edged weapon or triangular/wedge-shaped for a single-edged weapon), the taper of the blade, and the depth of the wound."
+        },
+        {
+          "id": "7-14",
+          "name": "How will you prepare an injury certificate? (B.A-19)",
+          "answer": "The injury certificate (or report) is typically prepared on a printed form, with one copy sent to the investigating officer and one retained. The report must include the following particulars:\n1. Preamble/Particulars: Serial number, the name, age, sex, and address of the injured person. The name of the accompanying police constable must also be recorded.\n2. History: A brief statement from the injured person detailing how the injury was sustained.\n3. Examination and Description: The height, weight, and general health of the victim. At least two identification marks should be noted. The written consent of the patient for the examination must be taken.\n4. Injury Details (Specific Entries): A detailed description of all wounds, including their size, shape, direction, the part of the body afflicted, and their nature (simple or grievous).\n5. Weapon/Circumstance: The kind of weapon inflicted and whether it was dangerous should be noted.\n6. Conclusion/Opinion: The doctor’s final opinion or inference regarding the injuries, followed by the signature and date."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Head / Brain Injury",
+      "topics": [
+        {
+          "id": "8-1",
+          "name": "What do you mean by lucid interval of head injury? (B.A-2, 14, B.B-7)",
+          "answer": "A lucid interval is a temporary period of improvement in a patient's condition following a traumatic brain injury, after which the patient's condition deteriorates. It occurs after the initial concussive force momentarily knocks the patient out or dazes them, and they then become relatively lucid for a period that may last minutes or hours. This period of lucidity is followed by a rapid decline as blood collects within the skull, causing intracranial pressure to rise and damage to the brain tissue. A lucid interval is especially indicative of an epidural haematoma, although only 20% to 50% of patients with an epidural hematoma experience this phenomenon."
+        },
+        {
+          "id": "8-2",
+          "name": "What do you mean by cerebral concussion? (B.A-18, 21)",
+          "answer": "Cerebral concussion is defined as a 'jar' or 'shock' to the brain. The condition is also known by the older term Commotio cerebri."
+        },
+        {
+          "id": "8-3",
+          "name": "What do you mean by whiplash injury? (B.A-25)",
+          "answer": "Whiplash injury is a form of injury to the spine that occurs without a fracture of the vertebral column. It is commonly sustained by occupants of the front seat of a motor vehicle when the vehicle comes to a sudden stop. The resulting forward thrust causes acute hyperflexion, which is rapidly converted into acute hyperextension when the forehead strikes the windscreen. This movement can cause fatal contusion or laceration of the spinal cord even if the spine itself is not fractured."
+        },
+        {
+          "id": "8-4",
+          "name": "Moving head produces contrecoup injury - explain it. (B.A-17)",
+          "answer": "Contrecoup injury refers to a lesion that occurs in an area of the brain or skull opposite to the side of impact. This type of injury is caused when the moving head is suddenly decelerated by striking a firm surface, such as when the head hits the ground during a fall. The commonest cause of contrecoup injury is a Road Traffic Accident (RTA). The sudden deceleration causes the brain to strike the inside of the skull opposite to the site of impact, resulting in lesions such as sub-dural or sub-arachnoid hemorrhage."
+        },
+        {
+          "id": "8-5",
+          "name": "What is brain death? Tell its types. (B.A-15, 22)",
+          "answer": "Brain death is defined as the permanent and irreversible cessation of function of the entire brain (cerebrum, cerebellum, and brain stem). This condition is considered legal death, even if the heart function is artificially maintained by mechanical means.\n\nThe types of brain death are classified based on the site of destruction:\n1. Cortical or Cerebral Death (Persistent Vegetative State): In this condition, only the cerebral cortex is destroyed, but the brain stem remains intact. Respiration and continuous heartbeat are maintained, but there is a total loss of the power of perception.\n2. Brain Stem Death: This is characterized by the loss of the vital respiratory center and the ascending reticular activating system in the brain stem. This leads to irreversible coma and the inability to breathe spontaneously.\n3. Whole Brain Death: This involves the permanent cessation of function across all parts of the brain, including the cerebrum, cerebellum, and brain stem."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Firearm & Explosion Injuries",
+      "topics": [
+        {
+          "id": "9-1",
+          "name": "Tell the difference between Exit wound and Entry wound in firearm injury. (B.A-2, 6, 7)",
+          "answer": "The characteristics of entrance and exit wounds produced by a bullet from a rifled firearm differ based on the interaction of the missile with the body tissues:\n\n| Trait | Entrance Wound | Exit Wound |\n|---|---|---|\n| Size | Smaller than the diameter of the bullet owing to the elasticity of the skin. | Bigger than the diameter of the bullet. |\n| Edges | Inverted. | Everted, puckered, torn. |\n| Collars/Residue | Bruising, abrasion, or grease collar might be found. Burning, blackening, or tattooing may be seen around the wound. | Absent. |\n| Bleeding | Less. | More. |\n| Tissue Changes | May be cherry red due to Carbon Monoxide of explosive gases. | No color changes. |\n| Clothing Fibers | Turned in. | Turned out. |"
+        },
+        {
+          "id": "9-2",
+          "name": "What is 'choking' of firearm? Tell its importance. (B.A-5, 16)",
+          "answer": "Choking of the barrel is the slight constriction of the terminal few centimeters of the bore near the muzzle end of some smooth-bored guns.\n\nThe importance and advantages of choking are:\n• It keeps the pellets compact and prevents their dispersion up to a longer distance.\n• The pellets act like a single ball, which exerts a greater impact at the site of the body struck, leading to a larger entry wound with more penetrating power.\n• It temporarily obstructs the expulsion of the pellets, increasing the gas pressure behind them, which causes them to be expelled with greater force, thus increasing their effective range and penetration capacity."
+        },
+        {
+          "id": "9-3",
+          "name": "Brief characteristic points of entrance wound of rifled firearm. (B.A-3)",
+          "answer": "The characteristic points of an entrance wound caused by a rifled firearm (bullet) are:\n• The wound is typically smaller than the diameter of the bullet due to the elasticity of the skin.\n• The edges are inverted.\n• The wound may be surrounded by a bruising, abrasion, or grease collar.\n• Depending on the range of fire, burning, blackening, or tattooing may be found around the wound.\n• Fibers of clothing, if present, are typically turned in.\n• The tissues within and around the wound may be cherry red due to the Carbon Monoxide (CO) present in the explosive gases."
+        },
+        {
+          "id": "9-4",
+          "name": "What is rifling? What are the advantages of it? (B.A-11)",
+          "answer": "Rifling is the grooving on the inner surface of the barrel of a firearm. These grooves run spirally all along the bore.\n\nThe advantages and significance of rifling are:\n• It helps the bullet achieve a gyroscopic movement (spin).\n• This spin gives the bullet a straight trajectory.\n• It imparts greater power of penetration to the bullet.\n• It enables the bullet to cover longer ranges and improves the accuracy of hitting the target."
+        },
+        {
+          "id": "9-5",
+          "name": "What is bomb? What are the effects of a bomb blast? (B.A-10, 17, 23)",
+          "answer": "A bomb is defined as a container filled with an explosive mixture and missiles, which is fired either by a detonator or a fuse.\n\nThe effects of a bomb blast explosion include:\n• Disruptive effects: Victims in contact with a large bomb may be blown into pieces. A bomb exploding on the ground may cause traumatic amputation of the lower legs.\n• Effect of flying missiles (splinters): Splinters from the bomb can cause deep penetrating injuries, injury to vital organs, hemorrhage, shock, and potentially death. Secondary blast injuries caused by small missiles striking the body are characterized by the Marshal Triad (punctate bruises, abrasions, and punctate lacerations).\n• Effect of air blast: The explosion produces a shock wave that can throw the victim against a wall or toss them through the air, causing blunt force injuries. Death may result from blast lung.\n• Burns: The fire caused by the explosion may set the victim's clothing ablaze, resulting in extensive burn injury.\n• Falling masonry: A powerful blast can cause the collapse of a structure, leading to traumatic asphyxia.\n• Fumes: If the explosion occurs inside a closed apartment, the entrapped victims may suffer poisoning with CO2 or CO, leading to death by asphyxia."
+        },
+        {
+          "id": "9-6",
+          "name": "Define Forensic Ballistics. (B.A-20)",
+          "answer": "Forensic ballistics is the science that deals with the investigations of firearms, ammunition, and the problems arising from their use."
+        },
+        {
+          "id": "9-7",
+          "name": "What is primer? What are the composition of it? (B.A-25)",
+          "answer": "The primer, also known as priming mixture, is the highly explosive mixture found in the percussion cap at the base of the cartridge.\n\nThe composition of the primer includes Mercury fulminate, Potassium carbonate (KCO3), and Antimony sulfide."
+        },
+        {
+          "id": "9-8",
+          "name": "What is souvenir bullet? Tell its medicolegal importance. (B.A-13)",
+          "answer": "A souvenir bullet is a bullet that remains in the body for a long time. It is typically surrounded by a dense fibrous tissue capsule, and there is no fresh bleeding in the surrounding areas.\n\nThe medicolegal importance is that lead poisoning may occur due to the absorption of lead from the bullet remaining embedded in the tissues."
+        },
+        {
+          "id": "9-9",
+          "name": "Case: Firearm injury, single entry wound & two exit wounds. Cause? (B.A-1)",
+          "answer": "A single entrance wound resulting in two or more exit wounds can be caused if:\n• The bullet splits up within the body and divides into two or more pieces.\n• The bullet strikes a bone, breaking it into fragments that then act as secondary missiles producing multiple exits."
+        },
+        {
+          "id": "9-10",
+          "name": "Case: Entry wound but no exit wound and no bullet found. Cause? (B.A-4)",
+          "answer": "If an entry wound is present but no exit wound and no bullet are found inside the body, the cause could be:\n• The bullet entered the stomach and was subsequently vomited.\n• The bullet entered the windpipe and was coughed up.\n• The bullet entered the gastrointestinal tract and passed out in the feces.\n• The bullet was turned on coming in contact with the bone and passed out by the same wound through which it entered."
+        },
+        {
+          "id": "9-11",
+          "name": "Case: Circular hole right temporal, pistol in hand. Suicide or Homicide? (B.A-10)",
+          "answer": "This scenario is strongly suggestive of suicide.\n\nFactors supporting this opinion include:\n• The wound site (temporal region) is a common suicidal site.\n• The pistol is found at the victim's hand, which, especially if grasped in cadaveric spasm, is strong evidence of suicide.\n• Most suicidal wounds are contact wounds.\n• In such a case, a contact shot by a pistol results in a larger, stellate-like entry wound at the site of impact.\n• The scene is usually undisturbed and the victim is typically found in a closed room."
+        },
+        {
+          "id": "9-12",
+          "name": "Case: Multiple entry/exit wounds by single bullet. (B.A-15)",
+          "answer": "Multiple entry and exit wounds (more than one entry and one exit) caused by a single bullet occur if:\n• The bullet passes through two or more separate parts of the body.\n• For instance, a single bullet passing through the arm and then the chest would create four wounds (two entry, two exit).\n• This usually happens when the person is running or sitting in an unusual position."
+        },
+        {
+          "id": "9-13",
+          "name": "Case: 2 gunshot injuries (front and back of chest). Diagnose entry/exit. (B.A-19, 21)",
+          "answer": "Assuming a frontal attack, the wound in the front of the chest is typically the entry wound and the one at the back is the exit wound.\n\nEntry Wound (Front of chest):\n• Size: Smaller than the bullet diameter.\n• Edges: Inverted.\n• Residue: May show burning, blackening, tattooing, abrasion, or grease collars.\n\nExit Wound (Back of chest):\n• Size: Bigger than the bullet diameter.\n• Edges: Everted, puckered, or torn.\n• Residue: Absent."
+        },
+        {
+          "id": "9-14",
+          "name": "Case: Dead body gunshot chest. Rifled or Smooth bored? (B.A-23)",
+          "answer": "To determine whether the injury was caused by a rifled firearm (bullet) or a smooth bored firearm (shotgun), the following must be investigated:\n• Rifled Firearm: Typically produces a single, circular or oval entry wound, and if discharged from close range, leaves behind a single bullet.\n• Smooth Bored Firearm: Shoots pellets and:\no At long range, the injury shows individual pellet holes.\no At intermediate range, it forms a ragged central hole surrounded by a few stray shot holes.\no An X-ray would likely show the presence of multiple pellets (shot).\n\nThe definitive diagnosis relies on the distinct pattern of the wound (single versus pellet dispersal) and the presence of any residual projectiles."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Effects of Heat, Cold, Electrocution & Starvation",
+      "topics": [
+        {
+          "id": "10-1",
+          "name": "Differentiate between burn & scald. (B.A-1, 4)",
+          "answer": "Burn and scald injuries, classified as thermal injuries, differ primarily based on the nature of the heat source.\n\n| Trait | Burn (Dry Heat Injury) | Scald (Moist Heat Injury) |\n|---|---|---|\n| Cause | Dry heat, flame, heated solid body, or X-rays. | Steam or liquid above 60°C. |\n| Skin Appearance | Dry and wrinkled; may be charred or blackened. | Sodden and bleached. |\n| Singeing of Hair | Usually present. | Usually absent. |\n| Depth/Severity | Often deep, potentially causing tissue destruction/charring. | Usually less deep. |\n| Scar | Thick and contracted. | Thin and less contracted. |\n| Fatality | More fatal. | Less fatal. |"
+        },
+        {
+          "id": "10-2",
+          "name": "'AC current is more dangerous than DC current'- why? (B.A-1)",
+          "answer": "AC causes tetanic muscle contraction (cannot let go) and ventricular fibrillation."
+        },
+        {
+          "id": "10-3",
+          "name": "How will you differentiate between antemortem burn and postmortem burn? (B.A-5, 7, 15, 16)",
+          "answer": "Antemortem (during life) and postmortem (after death) burns are differentiated based on the presence of vital reactions (biological changes only possible in a living body).\n\n| Trait | Ante-mortem Burn | Post-mortem Burn |\n|---|---|---|\n| Line of Redness | Present (due to vital reaction). | Absent. |\n| Blister Base | Red and inflamed. | Dry, hard, and yellow. |\n| Blister Contents | Contains serous fluid with proteins and chlorides. | Contains air and thin clear fluid. |\n| Vital Reaction/Enzymes | Present; peripheral zone shows increase in enzyme reaction. | Absent; peripheral zone does not show increase in enzyme reaction. |\n| Carboxy-Hb in Blood | Present (if combustion products were inhaled). | Absent. |"
+        },
+        {
+          "id": "10-4",
+          "name": "What do you mean by post mortem caloricity? (B.A-8)",
+          "answer": "Post-mortem caloricity is a phenomenon in which the temperature of the dead body remains raised for the first two hours or shortly after death, instead of immediately beginning to cool.\n\nThis condition is seen in cases where excessive heat generation occurs just prior to or at the time of death, such as in:\n• Sun stroke or heat hyperpyrexia.\n• Tetanus and strychnine poisoning.\n• Septicaemic conditions.\n• Febrile illness due to other causes."
+        },
+        {
+          "id": "10-5",
+          "name": "What is sudden death? Tell the cardiovascular causes. (B.A-2, 5, 7, 19)",
+          "answer": "Sudden death is defined as death occurring when a person is not known to have been suffering from any dangerous disease, injury, or poisoning, and is found dead or dies within 24 hours after the onset of terminal symptoms.\n\nCardiovascular causes account for 45% to 50% of sudden deaths. These causes include:\n• Coronary atherosclerosis or coronary artery disease.\n• Coronary thrombosis and myocardial infarction.\n• Ruptured myocardial infarct.\n• Stenosis or insufficiency of heart valves.\n• Pulmonary embolism.\n• Congenital heart diseases.\n• Acute and constrictive pericarditis or myocarditis.\n• Cardiomyopathy."
+        },
+        {
+          "id": "10-6",
+          "name": "Case: Emaciated body, distended gall bladder. Cause? (B.A-2, 8, 12, 17, 20)",
+          "answer": "The diagnosis consistent with an emaciated body and a distended gallbladder is Chronic Starvation.\n\nThe gall bladder is found distended with thick, inspissated bile in starvation cases. This occurs because the absence of food in the stomach leads to no stimulation of nerve receptors normally responsible for releasing bile from the gallbladder. Consequently, the organ remains distended with concentrated bile."
+        },
+        {
+          "id": "10-7",
+          "name": "Case: Burn 30% (or upper limbs/chest). Fluid management? (B.A-8, 12)",
+          "answer": "The fluid management for a burn patient is based on the Parkland formula, which calculates the amount of Ringer’s lactate (crystalloid solution) needed in the first 24 hours.\n\nThe formula calculates the total 24-hour fluid requirement as: Total Fluid (mL) = 4 × Body Weight (kg) × % Total Burn Surface Area\n\nThis calculated volume is administered over the first 24 hours post-burn in the following regimen:\n• First 8 hours: 50% of the total calculated fluid amount.\n• Next 8 hours: 25% of the total calculated fluid amount.\n• Remaining 8 hours (total 24 hours): 25% of the total calculated fluid amount."
+        },
+        {
+          "id": "10-8",
+          "name": "Case: Farmer, hot day, unconscious, high temp. Diagnosis? (B.A-18, 24)",
+          "answer": "The probable diagnosis is Heat Stroke (Heat hyperpyrexia/Sun Stroke).\n\nHeat stroke is characterized by the following critical features:\n• High Temperature: The body temperature is elevated, often greater than 41°C (106°F).\n• Unconsciousness/Neurological Disturbance: The victim presents with neurological disturbances such as stupor or coma.\n• Mechanism: It results from the impairment or breakdown of the heat regulation mechanism, which causes the heat regulation centers to fail. The skin is hot and dry with no sweating."
+        },
+        {
+          "id": "10-9",
+          "name": "Case: 2 patients burn injuries. One restless, one quiet. Reason? (B.A-25)",
+          "answer": "The difference in patient behavior is related to the depth of the burn injury and the destruction of local nerve endings.\n\n1. Restless/Screaming Patient (Painful): This suggests a superficial burn (1st or 2nd degree) where the nerve endings remain functional but are severely irritated. This type of burn is the most painful.\n2. Calm/Quiet Patient (Painless): This suggests a deep burn (3rd degree or deeper) where the nerve endings are completely destroyed by the heat, rendering the area relatively painless."
+        },
+        {
+          "id": "10-10",
+          "name": "Tell the differential diagnosis of starvation. (B.A-24, 25)",
+          "answer": "The diagnosis of starvation requires the exclusion of natural diseases that cause severe weight loss or cachexia. Differential diagnoses of chronic starvation include:\n• Malignant diseases.\n• Pulmonary TB (Tuberculosis).\n• Diabetes mellitus (DM).\n• Addison's disease.\n• Thyrotoxicosis.\n• Chronic diarrhea/Gastroenteritis.\n• Progressive muscular atrophy.\n• Pernicious anaemia.\n• Progressive muscular dystrophy."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Asphyxia & Drowning",
+      "topics": [
+        {
+          "id": "11-1",
+          "name": "What is asphyxia? Tell the cardinal signs of asphyxia. (B.A-10, 11)",
+          "answer": "Asphyxia is defined as the condition caused by interference with respiration, or due to a lack of oxygen in the inspired air, resulting in the appreciable reduction of oxygen supply to the blood and tissues below the normal working level. This deprivation of oxygen, along with the failure to eliminate carbon dioxide, leads to unconsciousness or death. The term originally means \"absence of pulse\".\n\nThe cardinal signs (or stigmata) of asphyxial death are primarily due to raised venous pressure and include:\n1. Cyanosis, resulting from deoxygenated blood.\n2. Congestion, caused by stasis.\n3. Petechial haemorrhage (or Tardieu’s spots), caused by the rupture of small venules.\n4. Interstitial edema, also resulting from stasis."
+        },
+        {
+          "id": "11-2",
+          "name": "Define Strangulation. Classify it. (B.A-9, 25)",
+          "answer": "Strangulation is a form of violent asphyxia caused by constriction of the neck by a ligature or by other mechanical means, where the constricting force is anything other than the weight of the body. The force of constriction is applied externally (exogenous in origin).\n\nStrangulation can be classified by method:\n1. Strangulation proper (Ligature strangulation).\n2. Manual strangulation (Throttling, using the palm or fingers).\n3. Bansdola (compression of the neck between two sticks or hard objects).\n4. Mugging (compression of the neck against the bend of the elbow).\n5. Garroting (using a rapidly twisted ligature with a lever)."
+        },
+        {
+          "id": "11-3",
+          "name": "What are the criteria of ligature mark in case of hanging? (B.A-7)",
+          "answer": "The typical ligature mark resulting from hanging has the following criteria:\n• Oblique and Non-continuous: The mark is oblique and does not completely encircle the neck, with a gap present at the site of the knot.\n• Location: It is typically placed high up around the neck, often above the level of the thyroid cartilage.\n• Appearance: The base of the mark is usually pale, hard, and parchment-like. If the knot presses on the skin, it may be inverted ‘V’-shaped."
+        },
+        {
+          "id": "11-4",
+          "name": "What are the neck findings of hanging and strangulation? (B.A-8)",
+          "answer": "The neck findings differ significantly based on the mechanism:\n\n| Traits | Hanging (Typical Suicidal) | Strangulation (Ligature) |\n|---|---|---|\n| Ligature Mark | Oblique, non-continuous, high up. Base is pale and parchment-like. | Transverse, continuous, typically below the thyroid cartilage. Base is soft and reddish. |\n| Neck Status | Stretched and elongated. | Not stretched or elongated. |\n| Subcutaneous Tissue | Dry, firm, white, and glistening (parchment-like) under the mark. | Ecchymosed (bruised) under the mark. |\n| Hyoid/Thyroid | Hyoid bone fracture may occur. Thyroid cartilage fracture is less common. | Thyroid cartilage fracture is more common. Hyoid fracture is uncommon. |\n| Face Appearance | Usually pale. | Congested, livid, and marked with petechiae. |"
+        },
+        {
+          "id": "11-5",
+          "name": "What is homicidal hanging? Give examples. (B.A-20)",
+          "answer": "Homicidal hanging is extremely rare because it is very difficult for a single assailant to perform unless the victim is a child, very weak, or has been rendered unconscious by injury or drugs.\n\nHomicide should be suspected if the body shows signs of struggle or violence, if the clothing is torn, or if injuries are present elsewhere on the body.\n\nAn example of homicidal hanging is Lynching, which occurs when several persons acting jointly and illegally overpower and hang an individual (often with a rope from a tree or similar object)."
+        },
+        {
+          "id": "11-6",
+          "name": "Define throttling. Tell its MLI. (B.A-22)",
+          "answer": "Throttling (Manual Strangulation) is defined as a form of strangulation caused by compressing the front of the neck by human hands (palm or fingers).\n\nThe Medicolegal Importance (MLI) of throttling is that it is always homicidal. It is the most common method used to commit homicide against weak individuals, children, or intoxicated persons. Death is caused primarily by asphyxia or sudden cardiac arrest due to reflex vagal inhibition caused by pressure on the vagal sheath or carotid vessels."
+        },
+        {
+          "id": "11-7",
+          "name": "Define partial hanging. Tell its types. (B.A-16)",
+          "answer": "Partial (incomplete) hanging is a form of violent asphyxia where the lower part of the body is in touch with the ground. The constricting force is applied by the weight of the head alone (approximately 5 to 6 kg).\n\nPartial hanging is classified by the victim's posture:\n1. Standing hanging: Toes or feet are in touch with the ground.\n2. Kneeling hanging: Knees are in touch with the ground.\n3. Sitting hanging: Buttock is in touch with the ground.\n4. Lying hanging (Prone or supine position)."
+        },
+        {
+          "id": "11-8",
+          "name": "Define drowning. Tell its types. (B.A-21, 23)",
+          "answer": "Drowning is a form of asphyxia that occurs when the entry of air into the lungs is prevented by water or other fluid due to submersion of the mouth and nostrils. Complete submersion of the body is not required.\n\nDrowning is categorized into four main types:\n1. Wet/Typical Drowning: Water is inhaled into the lungs. (Subtypes: Fresh water drowning and Salt water drowning).\n2. Dry Drowning: Water does not enter the lungs; death is caused by immediate sustained laryngeal spasm.\n3. Secondary Drowning (Near drowning): Death occurs hours to days after initial rescue and resuscitation.\n4. Immersion Syndrome (Hydrocution): Death results from cardiac arrest due to vagal inhibition, often triggered by sudden immersion in cold water."
+        },
+        {
+          "id": "11-9",
+          "name": "What do you mean by suffocation? (B.A-15)",
+          "answer": "Suffocation is a general term used to indicate a form of asphyxia that results from the deprivation of oxygen, either due to a lack of oxygen in the environment or caused by mechanical obstruction of the air passages at the level of the nose and mouth.\n\nThe types of conditions grouped under suffocation include Smothering, Choking, Gagging, Traumatic asphyxia, and Burking."
+        },
+        {
+          "id": "11-10",
+          "name": "Case: Dead body from pond, no water in lungs. Cause? (B.A-1, 34)",
+          "answer": "If a dead body recovered from water shows no water in the lungs, the cause of death is typically Dry Drowning.\n\nIn dry drowning, death results from immediate sustained laryngeal spasm due to the inrush of water into the larynx, which prevents air entry. Alternatively, death may be caused by vagal inhibition due to the unexpected immersion."
+        },
+        {
+          "id": "11-11",
+          "name": "Case: Froth differentiation (Drowning vs Poisoning). (B.A-3, 4, 9, 24)",
+          "answer": "Froth is a fine, white, lathery foam seen at the mouth and nostrils in cases of drowning. It is formed by the churning effect of inhaled water, air, and mucus secretions, and it spontaneously reappears if wiped away.\n\n• Drowning: Froth is typically fine, white, lathery, copious, and reappears spontaneously.\n• Poisoning: Froth is seen in certain poisonings (e.g., Opium, Cocaine, Barbiturate, OPC, Snake venom). However, the froth is usually not as fine or copious as in drowning. If the froth is due to putrefaction (a post-mortem change), it is characterized as bubbly, reddish, and foul-smelling."
+        },
+        {
+          "id": "11-12",
+          "name": "Case: Swollen body from river, mark on neck. (B.A-16)",
+          "answer": "If a swollen (decomposed) body recovered from water has a mark resembling a ligature around the neck, this mark is often a post-mortem artifact.\n\nA deep groove simulating a ligature mark of strangulation may be produced by the swelling of the tissues during decomposition against tight-fitting clothing, ornaments, or beaded threads around the neck."
+        },
+        {
+          "id": "11-13",
+          "name": "Case: Ligature mark non-continuous vs continuous/transverse. (B.A-11, 25)",
+          "answer": "This distinction is key in differentiating hanging from ligature strangulation:\n• Non-continuous/Oblique: This characterizes the ligature mark in hanging. The mark is incomplete, placed high up, and often oblique, with a gap at the site of the knot.\n• Continuous/Transverse: This characterizes the ligature mark in ligature strangulation. The mark completely encircles the neck, placed low down, and is typically transverse or horizontal."
+        },
+        {
+          "id": "11-14",
+          "name": "Case: 2 yr boy killed by pressing neck. Diagnosis? (B.A-6, 17)",
+          "answer": "The most likely diagnosis for a two-year-old boy killed by pressing hands on the neck is Manual Strangulation or Throttling.\n\nThrottling is often used in homicide against vulnerable victims like children. The cause of death is asphyxia or sudden cardiac arrest via reflex vagal inhibition. Post-mortem findings would likely include crescentic finger nail marks and bruising on the neck."
+        },
+        {
+          "id": "11-15",
+          "name": "Case: 43 yr male, bar, blue, coughs, dies. (B.A-14)",
+          "answer": "The probable cause of death is Café Coronary (a form of choking).\n\nThis occurs when a grossly intoxicated person (such as a bar patron) collapses suddenly, turning blue and coughing violently, because a large bolus of food mechanically obstructs the airway. Death is typically due to asphyxia or reflex cardiac arrest."
+        },
+        {
+          "id": "11-16",
+          "name": "Case: Stampede in fire. Cause? (B.A-14)",
+          "answer": "The primary cause of death in a stampede leading to crushing is Traumatic Asphyxia (Crush asphyxia).\n\nTraumatic asphyxia results from the mechanical fixation of the chest, preventing normal respiratory movement. Since the incident occurred during a fire, victims may also have died from inhalation of smoke or toxic fumes."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Reproduction, Legitimacy & Pregnancy",
+      "topics": [
+        {
+          "id": "12-1",
+          "name": "Define Pregnancy. Products of conception? (B.B-15)",
+          "answer": "Pregnancy is the physiological condition of having a developing embryo or fetus in the female when an ovum is fertilized by a spermatozoon.\n\nThe products of conception are the embryo or foetus. The embryo stage lasts up to eight weeks after embedding, after which it is considered a foetus."
+        },
+        {
+          "id": "12-2",
+          "name": "What are the presumptive/probable/positive signs of pregnancy? (B.A-12, B.B-3, 10)",
+          "answer": "The signs of pregnancy are classified into three types:\n\n• Presumptive Signs: These are subjective changes reported by the woman:\no Amenorrhoea (earliest and most important symptom).\no Changes in breasts (enlargement, venous prominence, enlarged/darkened areola, and secretion of colostrum by the end of the 3rd month).\no Morning sickness (nausea and vomiting, typically disappearing after the 16th week).\no Pigmentation (darkening of eyelids, axilla, areola, and appearance of linea nigra over the abdomen).\no Quickening (the mother's perception of fetal movement, felt between 18th and 20th weeks in primigravida).\no Jacquemier's sign (bluish discoloration of the vaginal mucous membrane).\n\n• Probable Signs: These are objective changes detected by the examiner:\no Enlargement and change in height of the uterus (rises above the pelvic brim by the 4th month).\no Hegar’s sign (extreme softening of the lower uterine segment).\no Goodell’s sign (softening of the cervix).\no Braxton-Hick’s sign (intermittent painless uterine contraction observed after 4 months).\no Ballottement test (fetal movement \"bouncing back\" felt between the 4th and 7th months).\no Uterine soufflé (soft blowing murmur synchronous with the mother's pulse).\no Immunological tests (to detect HCG).\n\n• Positive Signs: These are definitive proof of the fetus:\no Auscultation of foetal heart sounds (heard between 18 to 20 weeks).\no Palpation of foetal parts (from the 4th month onwards) and perception of foetal movement (from the 5th month onwards).\no Ultrasonography (detecting the gestational sac or fetal heart beat).\no Radiological demonstration of the foetal skeleton (possible from the 16th week onwards)."
+        },
+        {
+          "id": "12-3",
+          "name": "What is Hegar sign? (B.B-4)",
+          "answer": "Hegar’s sign is the softening and compressibility of the lower uterine segment. It occurs around the 6th week of pregnancy, causing the portion of the uterus just above the cervix to become so soft that during a bimanual examination, the fingers of the internal and external hands can almost touch, making it feel as if there is no uterus in between them."
+        },
+        {
+          "id": "12-4",
+          "name": "What is Jackquemier's sign? (B.B-15)",
+          "answer": "Jacquemier's sign, also known as Chadwick’s sign, is the bluish discoloration of the mucous membrane of the vagina. This change occurs due to venous obstruction, causing the color to deepen from pink to violet or blue. It typically occurs after the 4th week of pregnancy."
+        },
+        {
+          "id": "12-5",
+          "name": "What is uterine souffle? (B.B-5)",
+          "answer": "Uterine soufflé is a soft blowing murmur heard upon auscultation, typically on either side of the uterus just above the inguinal ligament. This murmur is synchronous with the mother’s radial pulse. It is caused by the passage of blood through the uterine vessels and is usually detectable from the end of the 4th month onward."
+        },
+        {
+          "id": "12-6",
+          "name": "Define delivery. Signs of delivery? (B.B-18)",
+          "answer": "Delivery means the expulsion or extraction of the child at birth.\n\nThe signs of recent delivery in a woman include:\n• General appearance: The woman is often pale, ill-looking, weak, and exhausted.\n• Breasts: They are full, enlarged, and tender, showing Montgomery's tubercles, with colostrum or milk expressing.\n• Abdomen: The abdominal wall is lax and flabby with wrinkled skin, and linea albicans (striae gravidarum) are found.\n• Genital findings: The labia majora are swollen and congested, the vagina is relaxed and spacious with loss of rugosity, and the cervix is soft, dilated, and swollen. The external os is usually soft and patent.\n• Uterus: The body of the uterus is contracted and retracted, felt like a hard muscular tumor shortly after delivery.\n• Lochial Discharge: Lochia (vaginal discharge) is present."
+        },
+        {
+          "id": "12-7",
+          "name": "Define Lochia? Types? (B.B-2, 17, 23)",
+          "answer": "Lochia is the vaginal discharge for the first fortnight during puerperium. It has a peculiar sour, disagreeable fishy odour.\n\nThe types of lochial discharge are:\n1. Lochia rubra: Red in color, lasting 1 to 4 days.\n2. Lochia serosa: Yellowish/pink/pale brownish color, lasting 5 to 9 days.\n3. Lochia alba: Pale white color, lasting 10 to 15 days."
+        },
+        {
+          "id": "12-8",
+          "name": "Define abortion. Types? (B.A-9, B.B-6)",
+          "answer": "Abortion (or miscarriage) legally means the premature expulsion of the fetus from the mother's womb at any time of pregnancy, before full term is completed. Medically, it is the spontaneous or induced termination of pregnancy before the age of viability (28 weeks of gestation).\n\nAbortion is classified into two main medicolegal types:\n1. Natural: Includes Spontaneous and Accidental abortion.\n2. Artificial/Induced: Includes Justifiable and Criminal abortion."
+        },
+        {
+          "id": "12-9",
+          "name": "What is justifiable abortion? Indications? (B.A-7, B.B-9, 16)",
+          "answer": "Justifiable abortion is the termination of pregnancy performed in accordance with the legal provisions (under the medical termination of pregnancy act).\n\nThe indications for justifiable abortion include:\n• Therapeutic ground: When the continuation of pregnancy endangers the life of the woman or may cause serious injury to her physical and mental health (e.g., uncontrolled hypertension, active pulmonary TB).\n• Eugenic ground: When there is a risk of the child being born with serious physical or mental abnormalities (e.g., mother suffered German measles or was treated with teratogenic drugs in the first three months).\n• Humanitarian ground: When the pregnancy has been caused by rape.\n• Social ground: When pregnancy resulted from the failure of contraceptive methods in a married woman, causing serious injury to her mental health."
+        },
+        {
+          "id": "12-10",
+          "name": "Define criminal abortion. Complications? (B.B-12, 19, 21)",
+          "answer": "Criminal abortion is the unlawful expulsion of the product of conception from a gravid uterus at any time of pregnancy. It is performed when there is no therapeutic indication for the operation.\n\nComplications of criminal abortion include:\n• Immediate deaths: Due to Vagal inhibition, Air embolism, Hemorrhage, fat embolism, or amniotic fluid embolism.\n• Delayed effects (within 48–72 hours): Due to local or general infective conditions such as Septicemia, pyaemia, general peritonitis, or Tetanus.\n• Remote deaths: Due to complications like renal failure or pulmonary embolism.\n• Local injuries: Lacerations or perforations in the upper vagina, cervix, or uterus."
+        },
+        {
+          "id": "12-11",
+          "name": "Medicolegal importance of pregnancy. (B.B-2, 7, 8)",
+          "answer": "The medicolegal importance of pregnancy arises in both civil and criminal contexts:\n\n• In Civil Cases:\no Nullity of marriage (if the woman is pregnant by another man at the time of marriage).\no Divorce (if the woman had no access to her husband matching the duration of pregnancy).\no Inheritance of property.\no Compensation cases (pregnant women are allowed higher compensation or maintenance charges).\n\n• In Criminal Cases:\no Execution of death sentence (deferred until six months after the child's birth).\no Trial in court (may be deferred in advanced pregnancy).\no Cases related to rape and seduction.\no Cases related to criminal abortion."
+        },
+        {
+          "id": "12-12",
+          "name": "Medicolegal importance of Artificial Insemination. (B.A-5, B.B-7, 11, 22)",
+          "answer": "Artificial Insemination (AI) presents several legal and social issues:\n• Adultery and Legitimacy: The child may be considered illegitimate if Artificial Insemination Donor (AID) is used. However, the donor and recipient are generally not held guilty of adultery.\n• Marriage and Inheritance: Issues concerning nullity of marriage, divorce, incest, and the inheritance of property may arise.\n• Psychological Impact: The husband may feel humiliation and develop psychiatric problems, or the child may suffer mental trauma if he learns he was conceived by a donor.\n• Procedural Requirements: The procedure requires precautions such as written consent of the woman and her husband, and the donor must remain secret."
+        },
+        {
+          "id": "12-13",
+          "name": "What is IVF? (B.B-1, 23)",
+          "answer": "IVF (In-Vitro Fertilization), commonly resulting in a \"test tube baby,\" is the process where the ovum and spermatozoa are fertilized in vitro (outside the body in a test tube).\n\nThe resulting zygote (or embryo) is then implanted into the uterus of the mother. This implantation usually occurs at the blastocyst stage."
+        },
+        {
+          "id": "12-14",
+          "name": "What is Surrogacy? MLI? (B.B-3)",
+          "answer": "Surrogacy (or Womb bearing) is a practice where a couple hires a woman to develop a child in her womb. The surrogate mother agrees to bear the child by agreement or contract for someone else.\n\nThe medicolegal importance (MLI) of surrogacy includes potential issues related to legitimacy, adultery, nullity of marriage or divorce, incest, and inheritance of property."
+        },
+        {
+          "id": "12-15",
+          "name": "What is Superfetation and Superfecundation? (B.B-12, 19)",
+          "answer": "• Superfecundation: This occurs when two ova are fertilized from the same menstrual cycle by two separate acts of coitus occurring at short intervals. This may result in a question of paternity if the intercourse was with two different men.\n• Superfetation: This is the fertilization of a second ovum in a woman who is already pregnant. This is considered extremely rare in humans."
+        },
+        {
+          "id": "12-16",
+          "name": "Define Sterilization/Impotency/Sterility. (B.B-2, 7, 13, 22)",
+          "answer": "• Impotency: The inability of a person to perform sexual intercourse and achieve sexual gratification.\n• Sterility: The inability to procreate, meaning the inability of a woman to conceive or a man to beget a child during childbearing age.\n• Sterilization: The process to cause a person to be sterile without affecting his or her potency or sexual functions."
+        },
+        {
+          "id": "12-17",
+          "name": "Define Legitimacy/Illegitimate child. (B.B-4, 18)",
+          "answer": "• Legitimacy: The legal state of a person born in lawful marriage.\n• Legitimate child: A child born during the continuance of a valid marriage or within 280 days after dissolution of marriage by divorce or death of the husband, provided the mother remains unmarried.\n• Illegitimate child (Bastard child): A child born out of lawful wedlock or not within a competent time after the dissolution of the marriage."
+        },
+        {
+          "id": "12-18",
+          "name": "Define Marriage/Divorce/Nullity. (B.B-5, 6, 8, 10, 14, 16)",
+          "answer": "• Marriage: A legal contract between man & woman which implies physical union by coitus.\n• Divorce: The dissolution of a previously valid marriage. Grounds include adultery, cruelty, and incurable insanity.\n• Nullity of marriage: It means the marriage never to have existed in law. Causes include when a party was under the age of marriage contract, of unsound mind, already validly married, woman was pregnant by another man at the time of marriage, or marriage was not consummated due to impotency."
+        },
+        {
+          "id": "12-19",
+          "name": "Case: Father AB(-), Mother O(-), Child O(+). Legitimacy? (B.A-15, B.B-2)",
+          "answer": "The child is illegitimate.\n\n• Rh Factor Explanation: According to the rules of inheritance of Rh groups, Rh negative parents cannot produce an Rh positive child. Since both the mother and father are Rh negative, but the child is Rh-positive, the child must be illegitimate.\n• ABO Explanation: If the father is AB and the mother is O, the child cannot be type O according to the rule that an AB parent cannot have an O child (as the O child must inherit 'O' from both parents, but the AB father lacks the 'O' gene)."
+        },
+        {
+          "id": "12-20",
+          "name": "Case: Amenorrhea 10 weeks. Confirm pregnancy? (B.B-4)",
+          "answer": "Amenorrhoea is only a presumptive sign of pregnancy, not a confirmation. Amenorrhoea may be related to pregnancy or other causes.\n\nTo confirm pregnancy at 10 weeks (first trimester):\n1. Immunological tests (HCG tests) should be conducted.\n2. Ultrasonography should be performed to detect the gestational sac or fetal heart beat, which are considered definitive/positive signs."
+        },
+        {
+          "id": "12-21",
+          "name": "Case: Husband died 4 months ago, woman delivers after 5 months. (B.B-7)",
+          "answer": "The child is considered a posthumous child and is legitimate.\n\nA legitimate child is one born within 280 days after the death of the husband. The total duration from the death of the husband to the birth is 4 + 5 = 9 months, which is approximately 270 days, falling within the 280-day legal limit."
+        },
+        {
+          "id": "12-22",
+          "name": "Case: Phantom pregnancy symptoms. (B.B-1, 14)",
+          "answer": "The diagnosis is Phantom pregnancy (or Pseudocyesis / False pregnancy).\n\nThis condition occurs when a woman shows most of the signs and symptoms of pregnancy, without being pregnant.\n\nThe patient may present with:\n• Enlargement of the abdomen (due to fat deposition or ascites).\n• Morning sickness and nausea.\n• Weight gain.\n• Imaginary or false feeling of movement of the foetus.\n• False labour pain.\n\nThe patient is typically a childless woman or one nearing the menopause. Diagnosis is made by the absence of positive signs of pregnancy and negative HCG/ultrasonography reports."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Infanticide & Child Abuse",
+      "topics": [
+        {
+          "id": "13-1",
+          "name": "Difference between live birth and stillbirth. (B.A-9, 10)",
+          "answer": "The distinction between a live birth and a stillbirth is primarily established by determining whether the infant had established respiration or shown any signs of life after being completely born.\n\n| Traits | Still birth (Un-respired Lungs) | Live Birth (Respired Lungs) |\n|---|---|---|\n| Definition | Dies during the birth process and shows no signs of life after being completely born. | Showed signs of life when only part of the child was out of the mother. |\n| Weight | 1/70 of body weight. | 1/35 of body weight. |\n| Volume | Normal or small. | Larger, and cover the heart. |\n| Consistency | Dense, firm, non-crepitant. | Soft, spongy, elastic, crepitant (due to air). |\n| Color | Uniformly reddish-brown or bluish-red. | Mottled or marbled appearance. |\n| Hydrostatic Test | Whole and parts sink in water. | Expanded areas or whole float in water. |\n| Diaphragm Position | Highest point at the level of the 4th or 5th rib. | Highest point at the level of the 6th or 7th rib. |"
+        },
+        {
+          "id": "13-2",
+          "name": "What is Maceration? Signs. (B.A-21, B.B-19)",
+          "answer": "Maceration is a condition of autolytic decomposition of a dead fetus that occurs in the aseptic environment of the uterus, where the deceased child remains inside the uterus for at least three or four days, surrounded by liquor amnii but with the exclusion of air. Maceration is considered one of the signs of a dead born child.\n\nKey signs of maceration include:\n• The skin is sodden and coppery red with blisters and peeling cuticle.\n• The abdomen is distended.\n• The body is soft, flaccid, and flattens out when placed on the table.\n• Abnormal mobility of the joints is noted.\n• The bones are flexible and readily detached from the soft parts.\n• The brain has a grayish-red pulpy appearance.\n• The viscera become soft and edematous and lose their morphology, except for the lungs and uterus."
+        },
+        {
+          "id": "13-3",
+          "name": "What is SIDS? Causes? (B.A-18)",
+          "answer": "Sudden Infant Death Syndrome (SIDS), also known as Cot death or Crib death, is defined as the sudden and unexpected death of a seemingly healthy infant whose death remains unexplained even after a thorough case investigation, complete autopsy, and review of the clinical history.\n\nCauses and precipitating factors associated with SIDS include:\n• Age: Most deaths occur between one and seven months, with a peak at two to three months.\n• Time: Death always occurs during sleep, generally at late night or early morning hours.\n• Viral Infection: Rapidly fatal respiratory viral infection.\n• Toxicology: Cigarette smoking and drug abuse by the pregnant woman increases the risk.\n• Physiology: Theories include prolonged sleep apnoea, local hypersensitivity of the respiratory tract lumen to bovine milk, or remodeling of the conductive system of the heart.\n• Socioeconomic Status: It is more common among those from low socioeconomic standards."
+        },
+        {
+          "id": "13-4",
+          "name": "What is 'Battered Baby Syndrome'? (B.A-8)",
+          "answer": "Battered baby syndrome (BBS), also known as Caffey's syndrome or Non-accidental injury of child, is a condition where young children (usually under 3 years old) have received repetitive physical injuries as a result of non-accidental violence or injury inflicted by a parent or guardian. The syndrome involves non-accidental deprivation of nutrition, care, and affection.\n\nPatterns of injuries often seen in BBS include:\n• Bruises: Bruises, abrasions, and lacerations are found over multiple body sites, including around the limbs, on the buttocks, face, cheeks, mouth, scalp, chest, abdomen, and neck.\n• Skeletal Damage: This includes skull fracture and fracture of extremities.\n• Thermal Injuries: Burns and scalds are also common.\n• Internal Injuries: Trauma can lead to intracranial hemorrhage or bursting/rupturing injuries of the liver or spleen.\n• Discrepancy: A classical feature is the obvious discrepancy between the nature of the injuries and the explanation offered by the parents. The repetition of injuries at different dates, often progressing from minor to severe, is a constant feature."
+        },
+        {
+          "id": "13-5",
+          "name": "Case: Dead fetus in dustbin. Live or dead born? (B.A-11, 15)",
+          "answer": "To diagnose whether a dead fetus found in a dustbin was live born or dead born, a doctor must perform a post-mortem examination, focusing primarily on signs of respiration (the hydrostatic test) and signs of intrauterine death:\n\nDiagnosis of Live Birth (Fetus Breathed):\n• Lungs: The lungs would be larger (about 1/35 of body weight), soft, spongy, and crepitant, and would float in water (positive hydrostatic test).\n• Chest: The chest would be expanded, arched, or drum-shaped.\n• GIT: Air would be found in the stomach and intestine.\n\nDiagnosis of Dead Born (Fetus Died In Utero):\n• Lungs: The lungs would be dense, firm, non-crepitant, and would sink in water (negative hydrostatic test).\n• Signs of Intrauterine Death: The body may show signs of maceration (red/purple skin, soft/edematous viscera) or rigor mortis."
+        },
+        {
+          "id": "13-6",
+          "name": "Case: Crawling baby, Kerosene poisoning. (B.B-10, 16, 19, 24)",
+          "answer": "The most probable diagnosis is Acute Kerosene Oil Poisoning, which is a highly common accidental poisoning, especially among infants and children.\n\nSigns and Symptoms: When kerosene oil is ingested, it causes local irritation, and after absorption, it has neurotoxic and respiratory depressing effects.\n• Smell: Smell of kerosene in the breath is a diagnostic finding.\n• Gastrointestinal: The baby would experience pain in the abdomen, nausea, vomiting, and diarrhea.\n• Respiratory: The poisoning is characterized by expulsive cough, respiratory difficulty/failure, and sometimes pneumonitis.\n• Neurological: Excessive crying, headache, giddiness, mental confusion, and convulsions may occur.\n\nManagement Principles:\n1. Decontamination: Contaminated clothing must be removed, and affected skin areas washed thoroughly with soap and water.\n2. Stomach Wash: Gastric lavage is generally contraindicated in kerosene oil poisoning due to the high risk of aspiration pneumonia.\n3. Specific Treatment: Liquid paraffin (250 ml) should be given orally, as it dissolves kerosene and reduces absorption. Saline purgatives may also be helpful.\n4. Respiratory Support: Artificial respiration and oxygen inhalation are necessary if respiratory distress is present.\n5. Supportive Care: Steroids (if pneumonitis occurs), antibiotics (to prevent secondary infection), intravenous glucose, and vitamins (to protect organs) should be administered."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Sexual Offences",
+      "topics": [
+        {
+          "id": "14-1",
+          "name": "Define Rape. (B.B-24)",
+          "answer": "Rape is generally defined as unlawful sexual intercourse by a man with any woman against her will, without her consent, or with her consent when it has been obtained by unlawful means, such as fraud, putting her in fear of death or hurt, drugging, or impersonation. According to BPC section 375, a man commits \"rape\" if he has sexual intercourse with a woman against her will or without her consent. The offense is constituted even if the woman gives consent when she is under fourteen years of age. Any degree of penetration is sufficient to constitute the sexual intercourse necessary for the offense of rape."
+        },
+        {
+          "id": "14-2",
+          "name": "Prerequisites of rape victim examination. (B.A-7, B.B-3, 7, 18)",
+          "answer": "The prerequisites that must be met before examining an alleged rape victim include:\n1. Requisition: A requisition for examination must be obtained from an authorized person, such as a magistrate or an officer in charge of the police station.\n2. Identification: The identification of the victim must be carried out by an authorized person before the medical officer begins the examination.\n3. Consent: Informed written consent is necessary. The victim gives consent if she is above 12 years of age, while the consent of her legal guardian is required if she is under 12, mentally unsound, or intoxicated.\n4. Third Party: An adult, mentally sound, female attendant must be present during the examination.\n5. Photograph: Three copies of a passport-size photograph attested by the police officer in charge (OC) or magistrate are required."
+        },
+        {
+          "id": "14-3",
+          "name": "Genital signs of virginity/defloration. (B.A-2, 8, 15, B.B-2, 11, 24)",
+          "answer": "Genital Signs of Virginity:\n• Labia Majora: They are typically firm, elastic, and rounded, lying in apposition to close the vaginal orifice completely.\n• Labia Minora: These are usually pinkish, soft, small, and elastic, and are mostly covered by the labia majora.\n• Hymen: It is intact, rigid, and inelastic, with a narrow opening that admits hardly the tip of the little finger in an adult.\n• Fourchette and Posterior Commissure: These folds are intact.\n• Vagina: It is typically narrow and tight with rugose walls.\n\nGenital Signs of Defloration (Loss of Virginity):\n• Hymen: It may be ruptured (forming Carunculae hymenalis) or, if intact, it is loose, elastic, and soft, allowing the passage of two or more fingers.\n• Labia Majora: They are not in close apposition, and the vaginal orifice may be visible.\n• Vagina: It is wider and walls are relaxed with the rugae becoming less obvious."
+        },
+        {
+          "id": "14-4",
+          "name": "Can a woman rape a man? (B.B-15)",
+          "answer": "Under the law, rape can only be committed by a man, and a woman cannot rape a man. However, a woman may be guilty of an indecent assault upon a man."
+        },
+        {
+          "id": "14-5",
+          "name": "Define Sodomy. Findings in habitual passive agent. (B.B-6, 8, 14)",
+          "answer": "Sodomy (also known as anal coitus or buggery) is defined as anal intercourse between two males or a male and a female. The person performing the act is called the active agent, and the person upon whom the act is performed is the passive agent. Sodomy, when performed on a young boy, is termed \"paederasty,\" and the child is called a \"catamite\".\n\nAnal Findings in Habitual Passive Agent of Sodomy:\nThe examination of a habitual passive agent (or sodomite) reveals several characteristic physical changes:\n1. Skin Condition: The skin around the anus may become smooth and thickened, sometimes extending into the upper anal canal, reaching the muco-cutaneous junction. Shaving of the anal hair may also be observed.\n2. Muscle Tone: There is a loss of tone of the anal muscles. The muscles do not contract readily when the skin around the area is pinched.\n3. Appearance: The anus exhibits dilatation and laxity. The appearance of a funnel-shaped anus is characteristic, although considered very rare.\n4. Buttocks: There may be depression of the buttocks towards the anus due to the absorption of fat.\n\nGeneral findings related to repeated acts may also include a funnel-shaped buttock and a healed tear around the anus."
+        },
+        {
+          "id": "14-6",
+          "name": "Define Incest/Adultery. (B.B-21, 25)",
+          "answer": "• Adultery is voluntary natural sexual intercourse occurring between a married man and someone other than his wife, or between a married woman and someone other than her husband (i.e., having sexual intercourse with someone who is not his/her legally wedded spouse). Adultery is committed with a married woman only. If proven, adultery is a valid ground for divorce and nullity of marriage.\n• Incest means sexual intercourse committed by a man with a woman who is closely related to him by blood. This includes relationships within \"prohibited degrees,\" such as a daughter, granddaughter, sister, step-sister, aunt, or mother."
+        },
+        {
+          "id": "14-7",
+          "name": "What is Indecent assault? (B.B-5)",
+          "answer": "Indecent assault generally refers to sex-linked misbehaviour towards a person of the opposite sex or the same sex. This type of offense is usually not aimed at achieving complete sexual intercourse and gratification.\n\nExamples of indecent assault include:\n• Touching or fondling of the breasts, buttocks, or thighs.\n• Penetration of the mouth by the penis (forced fellatio).\n• Attempts at penetration of the vagina or anus.\n• Putting a hand inside a person's clothing (up a woman’s skirt or inside a man’s trouser)."
+        },
+        {
+          "id": "14-8",
+          "name": "Define sexual perversions (Sadism, Masochism, Necrophilia). (B.B-23, 24)",
+          "answer": "Sexual perversions (or deviations) are persistently indulged sexual acts or fantasies in which complete satisfaction is sought or obtained without sexual intercourse.\n• Sadism: In this perversion, the person achieves sexual gratification by torturing and humiliating their sexual partner, often through acts like biting, beating, or whipping. This condition is more common among males.\n• Masochism: This is a sexual perversion where the individual derives sexual gratification by being bodily tortured or abused by their partner, including being humiliated, enslaved, or dominated.\n• Necrophilia: This refers to the desire for sexual intercourse with dead bodies."
+        },
+        {
+          "id": "14-9",
+          "name": "Case: Rape victim, no semen found. Causes? (B.B-19)",
+          "answer": "If a rape victim is examined and no semen is found, the possible causes include:\n• The perpetrator may not have had an emission (ejaculation).\n• Ejaculation occurred outside the vagina.\n• The perpetrator may be aspermatic (naturally or due to previous surgery like vasectomy).\n• The victim may have washed or the semen may have been removed by natural vaginal discharge.\n• A condom may have been used during the act."
+        },
+        {
+          "id": "14-10",
+          "name": "Case: Boy, funnel buttock, healed tear. (B.B-2, 9, 25)",
+          "answer": "The features described—a boy presenting with a funnel-shaped buttock and healed tear around the anus—are findings associated with repeated anal intercourse. The most likely diagnosis is Sodomy (anal coitus), specifically Paederasty, where the passive agent is a young boy (known as a catamite).\n\nFindings indicative of a habitual passive agent (sodomite) include:\n• The skin around the anus becoming smooth and thickened.\n• Loss of tone of the anal muscles.\n• Dilatation and laxity of the anus.\n• The funnel anus appearance, although stated to be very rare."
+        },
+        {
+          "id": "14-11",
+          "name": "Case: Lust murder vs Murder. (B.B-8)",
+          "answer": "Murder is defined as the killing of one person by another with the requisite intention to cause death. The legal criteria for murder include intention to kill, preparation for the act, and malice aforethought.\n\nLust murder is a specific, extreme form of sadism:\n• The killing serves as the stimulus for the sexual act, and the murder itself provides the complete sexual gratification.\n• The body of the victim is often mutilated, typically by cutting or stabbing the breasts, genitalia, or lower abdomen.\n• The act may be followed by sexual intercourse with the dying or dead body.\n• Unlike typical premeditated murder, the motivation in lust murder is rooted in mental disease.\n\nThe key difference lies in the underlying motivation: murder involves planning and lethal intent, while lust murder involves the homicidal and often mutilating act being intrinsically linked to the achievement of sexual pleasure."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Intersex & Sex Determination",
+      "topics": [
+        {
+          "id": "15-1",
+          "name": "Define DSD (Disorders of Sexual Development). (B.B-10)",
+          "answer": "Intersex, also known as Disorders of Sexual Development (DSD), may be defined as an intermingling of characters of both male and female sexes in varying degrees in the same individuals. This condition results from some defect in the embryonic development, where physical forms, gonads, and sexual behavior co-exist in varying proportions."
+        },
+        {
+          "id": "15-2",
+          "name": "What is Nuclear Sexing? (B.B-13)",
+          "answer": "Nuclear sexing is a method of identification of the sex of a person by analyzing the chromosomal content of that individual. This technique relies on detecting sex chromatin. For instance, cells from females (XX chromosomal pattern) contain a small plano-convex mass of chromatin known as the Barr body (found in 20% to 80% of cells), typically lying near the nuclear membrane. Females may also exhibit a small nuclear attachment called the Davidson body in up to 6% of neutrophils, while this is absent in males (XY chromosomal pattern)."
+        },
+        {
+          "id": "15-3",
+          "name": "How to determine sex of decomposed body? (B.B-11)",
+          "answer": "The sex of a decomposed or mutilated body can be determined by examining various features that resist decomposition:\n• Internal Organs and Tissues: The prostate and nulliparous uterus are often among the last organs to decompose and can help establish the sex. The predominance of musculature (male) versus subcutaneous fatty tissue (female) can also be examined, alongside the toughness and delicacy of the skin.\n• Skeletal Analysis: The characteristics of bones are studied, particularly the pelvis, skull, and long bones, as these structures are durable.\n• Hair: The distribution of pubic hair may be examined.\n• Microscopic/DNA Examination: Histological examination can be used to study sex chromatin (like Barr bodies), and DNA analysis can be performed on hard tissues like bones and teeth."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Forensic Toxicology (General)",
+      "topics": [
+        {
+          "id": "16-1",
+          "name": "Define Poison. Types? (B.B-1, 2, 4, 9, 12, 20)",
+          "answer": "A poison is defined as a substance (solid, liquid or gaseous) which, if introduced into the living body or brought into contact with any part, will produce ill-health or death by its constitutional or local effects or both.\n\nPoisons are classified according to their chief action, among other categories:\n• Corrosive Poisons: These substances fix, destroy, and cause erosion of the surface with which they come in contact, including strong acids (like Sulfuric acid) and strong alkalis.\n• Irritant Poisons: These include inorganic non-metals (e.g., Phosphorus), metallic irritants (e.g., Lead, Arsenic), and organic irritants (e.g., plant toxins).\n• Cerebral/CNS Poisons: These are classified into: Depressants (e.g., Opium, Alcohol), Stimulants (e.g., TCA antidepressants), and Deliriants (e.g., Datura).\n• Spinal Poisons: Such as Strychnine.\n• Chemical Asphyxiants: These displace oxygen from hemoglobin, such as Carbon monoxide."
+        },
+        {
+          "id": "16-2",
+          "name": "What is Antidote? Types/Universal Antidote. (B.B-3, 8, 18, 22, 25)",
+          "answer": "Antidotes are substances used to prevent or counteract the action of poisons, either by neutralizing them or by producing signs and symptoms opposite to those caused by the poison.\n\nAntidotes are categorized by their mode of action:\n1. Mechanical (Physical) Antidotes: They impede absorption by their presence. Examples include activated charcoal (adsorbent) and milk or egg albumin (demulcents).\n2. Chemical Antidotes: They chemically react with the poison to form harmless or insoluble compounds. Examples include using a weak acid for alkali poisoning.\n3. Physiological/Pharmacological Antidotes: They interfere with the poison's action on tissues or enzymes to produce opposite physiological effects. Examples include Atropine (for OPC poisoning) and Naloxone (for morphine).\n4. Serological Antidotes: Such as anti-snake venom serum.\n\nThe universal antidote is a mixture used when the exact nature of the poison is unknown. It is composed of Activated charcoal (2 parts), Magnesium oxide (1 part), and Tannic acid (1 part)."
+        },
+        {
+          "id": "16-3",
+          "name": "Define Fatal dose / Lethal dose. (B.B-5)",
+          "answer": "A lethal dose is defined as the dose which, if introduced or taken, causes the death of 50% of individuals if medically unattended. The usual or fatal dose is the amount in which cent percent individuals are expected to die if medically unattended."
+        },
+        {
+          "id": "16-4",
+          "name": "Factors modifying action of poison. (B.B-16, 17)",
+          "answer": "The factors that influence or modify the action of a poison include:\n• Quantity/Dose: A high dose acts more severely and rapidly.\n• Physical and Chemical Form: Gaseous or volatile poisons are rapidly effective.\n• Route of Administration: The speed of action decreases from inhalation (quickest) down through intravenous, intramuscular, subcutaneous, and oral routes.\n• Concentration: Concentrated forms are generally more toxic.\n• Age: Children and elderly individuals are often more sensitive to the action of poisons.\n• Condition of the Stomach: The presence of food in the stomach slows absorption.\n• Health and State of the Body: A weak person is less tolerant.\n• Cumulative Action: Poisons that accumulate in the body (like lead) can cause toxic effects even in low, repeated doses.\n• Idiosyncrasy and Tolerance: Some individuals are sensitive to certain drugs (idiosyncrasy), while prolonged use can lead to tolerance."
+        },
+        {
+          "id": "16-5",
+          "name": "Characteristics of Ideal Homicidal/Suicidal Poison. (B.B-15, 24)",
+          "answer": "Ideal Suicidal Poison should possess traits that ensure effectiveness and limit suffering:\n• It should be cheap and easily available.\n• It should not cause much pain before death.\n• The onset of action should be quick, and death should be rapid.\n• The fatality should be certain.\n• Clinical diagnosis and postmortem detection should ideally be difficult.\n\nIdeal Homicidal Poison should possess traits that allow for covert use and confusion with natural death:\n• It must be highly toxic even in a small dose.\n• It should be colorless, tasteless, and odorless.\n• Its action should simulate some natural disease condition.\n• It should have a slow onset of action.\n• It should have no specific antidote readily available.\n• It should be difficult to detect by laboratory tests."
+        },
+        {
+          "id": "16-6",
+          "name": "Stomach wash indications/contraindications. (B.B-10, 17, 20)",
+          "answer": "Stomach wash (Gastric Lavage) is a procedure used to remove ingested poisons.\n\n• Indications: It is useful in cases of ingested poisoning, particularly if performed anytime within 3 to 4 hours of ingestion. It is also indicated following the ingestion of a significant or life-threatening amount of medication or illicit drug packets.\n• Absolute Contraindications: It is absolutely contraindicated in corrosive poisoning (except carbolic acid poisoning) due to the risk of perforation of the stomach.\n• Relative Contraindications: These include patients who are convulsive or comatose, poisoning involving volatile poisons (due to risk of inhalation), extremes of age, and oesophageal varices or other upper alimentary tract diseases."
+        },
+        {
+          "id": "16-7",
+          "name": "Define Vitriolage. (B.B-5, 19, 21)",
+          "answer": "Vitriolage is defined as the act of throwing any corrosive agent on another individual with the intention to cause bodily injury. While it literally means the throwing of concentrated sulphuric acid (oil of vitriol), any corrosive acid may be used with malicious intent, often arising from jealousy, enmity, or revenge, to produce permanent disfiguration. If the victim dies, the act amounts to homicide, but if the victim survives, it constitutes grievous hurt."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Poisons (Specific)",
+      "topics": [
+        {
+          "id": "17-1",
+          "name": "OPC Poisoning: Mechanism, Routes, Kerosene smell. (B.B-2, 4, 6, 7, 21)",
+          "answer": "The term OPC (Organophosphorus Compound) refers to highly toxic substances that inhibit key enzymes in the body.\n\n• Mechanism of Action: OPC poisoning results from its effect as a powerful inhibitor of cholinesterase enzymes. Organophosphorus compounds bind firmly with the enzyme acetyl-cholinesterase (AChE) and cause its phosphorylation and subsequent inhibition. This inhibition prevents the breakdown of Acetylcholine (ACh), leading to an excessive concentration of ACh at the neuromuscular junctions and ganglia. This overactivity of ACh results in the characteristic signs and symptoms.\n• Routes of Administration: OPCs are well absorbed through the mucous membrane of the gastrointestinal tract (ingestion), the respiratory tract (inhalation), and through the skin (direct contact).\n• Kerosene Smell: The characteristic kerosene-like smell associated with OPC poisoning is due to the solvent (often 'aromex') with which the OPC is mixed, as OPC is often insoluble in water and mixed with such solvents."
+        },
+        {
+          "id": "17-2",
+          "name": "Datura: Active principles, Morton's classification, Crushed seeds. (B.B-2, 4, 18, 19)",
+          "answer": "• Active Principles: The primary active principles found in the Datura plant are the alkaloids Hyoscine (scopolamine), Hyoscyamine, and a trace of Atropine.\n\n• Morton's Classification (Signs): This classification describes the classic clinical features of Datura poisoning:\no \"Dry as a bone\": Due to the marked decrease in secretions (saliva, sweat).\no \"Blind as a bat\": Due to dilated pupils (mydriasis), which are insensible to light, causing blurred vision.\no \"Red as a beat\": Due to the flushing of the face caused by the dilatation of cutaneous blood vessels.\no \"Hot as a hare\": Due to increased body temperature as high as 107°F, resulting from the inhibition of the sweat center.\no \"Mad as a wet hen\": Due to delirium, restlessness, and confusion.\n\n• Crushed Seeds: The ingestion of Datura seeds is a common form of criminal (traveler's) poisoning. The estimated fatal dose of Datura is 0.6 to 1 gram or 100 to 125 crushed seeds. The seeds must be crushed for successful absorption and effect."
+        },
+        {
+          "id": "17-3",
+          "name": "Snake Venom: Composition, Management, Bite marks. (B.B-4, 7, 9, 10, 23)",
+          "answer": "• Composition: Snake venom is a complex mixture of toxins and enzymes, primarily proteinaceous in nature, secreted by modified salivary glands. Components include:\no Toxins: Such as Neurotoxin (acting on nerve cells, typical of cobras), Vasculotoxin (acting on blood and vessels, typical of vipers), Myotoxin (acting on muscles), and Cardiotoxin.\no Enzymes: Including Proteolysin (digests tissue protein), Hyaluronidase (helps rapid spreading of venom), Cholincsterase, and enzymes affecting coagulation like Fibrinolysin and Thromboplastin.\n\n• Management: The treatment priority is to prevent further absorption and neutralize the venom.\no First Aid: Includes reassurance (to reduce panic and venom spread), immobilizing the bitten limb with a broad firm bandage (Sutherland wrap) that occludes venous and lymphatic return, and cleaning the wound.\no Antivenom: Polyvalent antivenom serum is the definitive treatment and should be administered intravenously, usually after a sensitivity test.\no Symptomatic Care: If neuro paralysis signs are present, Neostigmine (or Pralidoxime) and Atropine (to block muscarinic side effects) may be given. Morphine is suitable for severe pain.\n\n• Bite Marks: Poisonous snakes typically leave two fang marks (puncture marks from the fangs), though smaller marks from other teeth may also be present."
+        },
+        {
+          "id": "17-4",
+          "name": "Arsenic vs Cholera. (B.B-19)",
+          "answer": "The differential diagnosis between acute arsenic poisoning and severe cholera (gastroenteritis) is crucial, as both can produce rice-watery stools.\n\n| Trait | Acute Arsenic Poisoning | Cholera / Gastroenteritis |\n|---|---|---|\n| Pain | Burning pain precedes vomiting. Tenesmus and severe burning pain at the anus are present. | No burning pain before vomiting. Tenesmus is absent. |\n| Stool | Initially dark, stinking, and bloody; only later becoming rice watery. Contains mucus and blood. | Rice watery from the onset, passed in continuous involuntary jet. |\n| Conjunctivae | Often inflamed. | Usually not affected. |\n| Stomach (PM) | Mucosa resembles red velvet. | Usually appears normal or shows chronic gastritis. |\n| Epidemiology | Restricted to an individual or group sharing the same food. | May occur in sporadic or epidemic form. |"
+        },
+        {
+          "id": "17-5",
+          "name": "Opium/Morphine diagnosis. (B.B-9, 22)",
+          "answer": "The diagnosis of acute opium or morphine poisoning is based on the characteristic signs and symptoms, especially the triad:\n\n• Cardinal Triad:\n1. Pin-point pupils (Miosis): The pupils are contracted, often described as pin-point, and are insensible to light.\n2. Respiratory Depression: Respiration becomes slow, labored, and stertorous (stertorous breathing), often decreasing to 2 to 4 breaths per minute.\n3. Impairment of Sensation (Coma): The patient passes into a deep coma from which they cannot be roused.\n\n• Other Key Findings: The patient’s muscles are relaxed (flaccid), all reflexes are lost, and the skin is cold and clammy with suspended secretions (except for sweat).\n\nDifferential Diagnosis: Opium poisoning must be distinguished from other causes of coma, particularly Barbiturate poisoning, cerebral hemorrhage, head injury, uremic coma, epileptic coma, and acute alcohol poisoning."
+        },
+        {
+          "id": "17-6",
+          "name": "What is Barbiturate Automatism? (B.B-24)",
+          "answer": "Barbiturate automatism refers to a tendency to take the drug repeatedly, forgetting each time that the dose has already been taken. This often leads to a cumulative overdose of the drug. The automatism is caused by the barbiturate’s intrinsic anterograde amnesia effect, leading the confused patient to repeat the dose and thus consume a toxic amount. This mechanism explains many cases of \"pseudo-suicide\" involving barbiturates."
+        },
+        {
+          "id": "17-7",
+          "name": "Case: 30 yr male, paddy field, salivation, pinpoint pupil. (B.B-9)",
+          "answer": "The symptoms of excessive salivation, sweating, and pinpoint pupils are classic manifestations of cholinergic crisis, combined with the environment of a paddy field (where pesticides are sprayed).\n\n• Diagnosis: Organophosphorus Compound (OPC) poisoning.\n• Immediate Management: The initial step is decontamination (removing contaminated clothing and washing exposed skin) and establishing the airway. The specific initial pharmacological treatment is the administration of Atropine (2-4 mg I/V stat), repeated until atropinization is achieved, to block muscarinic and CNS effects. Pralidoxime (an oxime compound) is also crucial as a cholinesterase reactivator."
+        },
+        {
+          "id": "17-8",
+          "name": "Case: Coconut water, drowsy, dry mouth, dilated pupil. (B.B-5, 12)",
+          "answer": "The symptoms of drowsiness, dry mouth, and dilated pupils (mydriasis) are characteristic of anti-cholinergic poisoning. The consumption of roadside coconut water suggests the deliberate administration of a stupefying agent, known as traveler’s poison.\n\n• Diagnosis: Datura poisoning (a traveler's poison).\n• Management: Gastric lavage should be performed using potassium permanganate (KMnO4) or tannic acid solution. The specific antidote is Physostigmine (0.5 mg I/V or I/M) or Pilocarpine. Delirium is managed with sedatives like short-acting barbiturates or bromides."
+        },
+        {
+          "id": "17-9",
+          "name": "Case: Cherry red blood/body. (B.B-8, 14)",
+          "answer": "• Diagnosis: The cherry-red discoloration of the blood and body is a specific post-mortem sign of Carbon Monoxide (CO) poisoning.\n• Reason: CO is toxic because it has an affinity for hemoglobin (Hb) that is 200 to 300 times greater than that of oxygen (O2). When CO is inhaled, it displaces O2 and forms carboxy-haemoglobin (COHb). This stable compound gives the blood its characteristic cherry-red color, causing death via anaemic anoxia."
+        },
+        {
+          "id": "17-10",
+          "name": "Case: Ganja psychosis (Homicidal/Suicidal). (B.B-3, 6, 10, 25)",
+          "answer": "Ganja psychosis (Hashish insanity) is a possible, though rare, complication of chronic cannabis poisoning.\n\n• Homicidal Intent: The psychosis may manifest as delusions of persecution or paranoid psychosis. The person may experience a psychic disturbance marked by a period of depression followed by violent attempts to kill people (a state known as running amok or homicidal impulse).\n• Suicidal Intent: After the homicidal tendency subsides, the person may commit suicide or surrender. The presence of delusions or severe mental disease associated with the psychosis is a major risk factor for suicide."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Forensic Psychiatry",
+      "topics": [
+        {
+          "id": "18-1",
+          "name": "Define Forensic Psychiatry. (B.A-25)",
+          "answer": "Forensic psychiatry is the branch of Psychiatry that specifically deals with the application of psychiatric knowledge in the administration of justice. Psychiatry, as a science, focuses on the study, diagnosis, and treatment of mental illness."
+        },
+        {
+          "id": "18-2",
+          "name": "McNaughten's Rule. (B.B-3, 9, 15)",
+          "answer": "The McNaughten Rules originated from the answers provided by 14 English judges in 1843 regarding the case of Daniel McNaughten. These rules establish the legal test for criminal responsibility of an insane person:\n\nAn accused person is not legally responsible if it is clearly proved that, at the time of committing the crime, they were suffering from such a defect of reason from abnormality of mind that they did not know the nature and quality of the act they were doing, or did not know that what they were doing was wrong.\n\nThis legal test is accepted in Bangladesh and is incorporated into Section 84 of the BPC (Bangladesh Penal Code), which states that \"Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act or that he is doing what is either wrong or contrary to law\"."
+        },
+        {
+          "id": "18-3",
+          "name": "Define Hallucination/Illusion/Delusion. (B.A-13, 14, B.B-1, 2, 4, 5, 8, 16, 25)",
+          "answer": "• Delusion: A false belief without any basis, which persists even after its falsity has been clearly demonstrated. Delusions are indicative of mental abnormality. Types include:\no Grandeur (imagining oneself rich or exalted).\no Persecution (imagining attempts are being made to poison or harm).\no Nihilistic (declaring that the self or the world does not exist).\no Infidelity (imagining the partner is unfaithful).\n\n• Hallucination: A false sense perception without any external object or stimulus to produce it.\no Types include auditory, visual, tactile, olfactory, and gustatory hallucinations.\n\n• Illusion: A false interpretation by the senses of an external object or stimulus which has a real existence.\no For example, mistaking a stick for a snake or the stem of a tree in the dark for a ghost."
+        },
+        {
+          "id": "18-4",
+          "name": "What is Lucid Interval of Insanity? (B.A-7, B.B-7, 13)",
+          "answer": "A lucid interval is a period in the course of mental illness during which there is a complete cessation of symptoms of insanity, leading the person to be considered mentally normal.\n\nThe medicolegal importance of a lucid interval is significant, as a person acting during this time:\n• Can exercise all civil rights.\n• Is responsible for all acts performed.\n• Can give valid evidence in a court of law.\n• Can give a valid will or a valid dying declaration or dying deposition."
+        },
+        {
+          "id": "18-5",
+          "name": "Define Impulse. (B.B-11, 24)",
+          "answer": "An impulse is defined as a sudden and irresistible desire compelling a person to the conscious performance of some action without motive or forethought or preparation. A sane person possesses the capacity to control an impulse.\n\nTypes of impulses include:\n• Kleptomania: An irresistible desire to steal articles of small value.\n• Pyromania: An irresistible desire to set things on fire.\n• Mutilomania: An irresistible desire to mutilate animals.\n• Dipsomania: An irresistible desire for alcoholic drinks at periodic intervals.\n• Sexual impulses."
+        },
+        {
+          "id": "18-6",
+          "name": "Define Testamentary Capacity. (B.B-20)",
+          "answer": "Testamentary capacity is the mental capacity of a person to make a valid will.\n\nTo possess this capacity, the testator must be a major and of sound disposing mind at the time of making the will. The doctor's role is to confirm that the testator understands the nature of the will and its consequences, and that they are not influenced by any insane delusion."
+        },
+        {
+          "id": "18-7",
+          "name": "Civil/Criminal responsibility of insane. (B.A-5, B.B-10, 21)",
+          "answer": "Criminal Responsibility: An insane person is not criminally responsible for their acts if the unsoundness of mind existed at the time of the crime and was severe enough to render the person incapable of knowing the nature of the act or that the act was wrong or contrary to law.\n\nCivil Responsibility: Civil responsibilities are typically waived if the insane person is unable to understand the nature and magnitude of the responsibility. Examples include:\n• Management of property: A court may appoint a manager if the insane person is unable to manage their property.\n• Contracts: Contracts are invalid if the person was of unsound mind and unable to understand the contract’s implications.\n• Consent: Consent given by an insane person has no validity.\n• Will: A will made by an insane person is not valid."
+        },
+        {
+          "id": "18-8",
+          "name": "True vs False Insanity. (B.B-6, 22)",
+          "answer": "| Traits | True Insanity | False Insanity (Feigned) |\n|---|---|---|\n| Onset | Usually gradual. | Usually sudden. |\n| Motive | No history of motive. | Present, often to avoid punishment or civil responsibility. |\n| Symptoms/Signs | Are uniform and point to a specific type of disorder. | Are not specific to any particular type of disorder. |\n| Observation | Continues irrespective of presence or absence of others. | Noticeable mostly in the presence of others (for fear of detection otherwise). |\n| Personal Habits | Often dirty and filthy and careless about dress. | Maintains minimum personal cleanliness and resents frequent examination. |\n| Physical Exhaustion | Minimum, even with continuous overactivity. | Gets exhausted like a normal person. |"
+        }
+      ]
+    }
+  ]
+}
+]
